@@ -1,12 +1,10 @@
 ---
 showLink: "https://www.youtube.com/watch?v=7o_2kDnrKEg"
 slug: "what-is-a-dapp"
-title: "What is a dApp"
-description: "In this episode of Incubator Weekly, we're joined by Walker Ford to discuss decentralized applications and IPFS."
+title: "What is a dApp"z
 publishDate: "2024-04-01"
-tags: [ "IPFS", "dApps" ]
 playlist: "Incubator Weekly"
-coverImage: "https://i.ytimg.com/vi/7o_2kDnrKEg/maxresdefault_live.jpg"
+coverImage: "https://i.ytimg.com/vi_webp/7o_2kDnrKEg/maxresdefault.webp"
 ---
 
 ## Links and Resources

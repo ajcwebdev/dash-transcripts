@@ -1,3 +1,12 @@
+---
+showLink: "https://www.youtube.com/watch?v=gbhl_EjK9m0"
+slug: "dash-platform-for-web-devs-part-2"
+title: "Dash Platform for Web Devs - Part II"
+publishDate: "2024-03-25"
+playlist: "Incubator Weekly"
+coverImage: "https://i.ytimg.com/vi_webp/gbhl_EjK9m0/maxresdefault.webp"
+---
+
 In this episode, Anthony introduces a tutorial for web developers to get started with Dash Platform and discusses automating podcast show notes using AI.
 
 Anthony walks through a tutorial he created to help web developers get started with building applications on Dash Platform using the Dash JavaScript SDK. The discussion also covers the process of automating the generation of podcast show notes using OpenAI's Whisper speech recognition model and ChatGPT for summarization. They explore the benefits and potential monetization of this workflow.
@@ -20,8 +29,6 @@ Anthony walks through the initial steps of the tutorial, including setting up th
 
 37:02 - 42:05 - Wrapping up and discussing future episodes
 They wrap up the episode, recapping what was covered and discussing plans for future episodes on IPFS and Dash Platform.
-
----
 
 [00:00] All right, we're live. Hello. Hello, everyone. Welcome to the incubator weekly show. Again, we
 [00:12] are jumping straight in this week, like we did last week. And yeah, first thing I wanted to mention is last week, we
@@ -321,4 +328,3 @@ They wrap up the episode, recapping what was covered and discussing plans for fu
 [41:50] well. We'll, we'll check that out. And we will. Yeah, we'll talk some IPFS and probably a third part of this series next
 [42:00] week. So if you're interested in that, tune in next week, and we will catch you then.
 [42:05] All right. See you guys next time. I see Anthony.
-
