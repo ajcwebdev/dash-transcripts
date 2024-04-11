@@ -316,7 +316,7 @@ As the episode wraps up, the participants share their final thoughts on what con
 [34:37] This is what the garbage, pinning is to get around the garbage collection issue, and there's pinning services.
 [34:45] So it's like, well, we got back to relying on a service now. But you can also, as I said, just run your own node.
 [34:54] There's also even, there's different platforms, I'm blanking on the name right now, that will give you kind of like a part, you know, I was talking about web two, web three, we've
-[35:04] talked about this a lot, Ryan, where they'll give you kind of like a web two like deployment platform that syncs to a GitHub repo, and then they will stick that onto IPFS for you.
+[35:04] talked about this a lot, Rion, where they'll give you kind of like a web two like deployment platform that syncs to a GitHub repo, and then they will stick that onto IPFS for you.
 [35:15] So those can be pretty cool as like an entry point for people who don't want to like fully imbibe this whole IPFS mindset, they want kind of like a partway, and then they can
 [35:24] get something that does have like a content hash, and then they can kind of work backwards from that, and then maybe start to get more comfortable with the system, eventually run
 [35:31] their own node. But there's a lot of companies out there that are trying to kind of meet people halfway.
@@ -463,7 +463,7 @@ As the episode wraps up, the participants share their final thoughts on what con
 [57:14] you to use their web hosting service. They want you to use their name providing service.
 [57:20] So there's some pushback to implementing it. It's not going to be as easy as we'd like.
 [57:29] But progress is being made and there's good resources like the one Daniel wrote and active communities that can help you make the next steps.
-[57:41] But yeah, it's, you know, ultimately with decentralization, like Ryan said, it's a spectrum and there's a lot of pieces to understand.
+[57:41] But yeah, it's, you know, ultimately with decentralization, like Rion said, it's a spectrum and there's a lot of pieces to understand.
 [57:53] You can't just, you can't just have one decentralized solution and that solves it all. You know, there's a lot to consider.
 [58:03] You have to pay, you have to pay for it to some extent, but the promise and the potential is there, which is, I think, why we're all here and expanding where we're at is part
 [58:21] of the process to get to where we want to be. I think those are some good closing remarks.

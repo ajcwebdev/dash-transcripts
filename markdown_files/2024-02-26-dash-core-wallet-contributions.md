@@ -172,7 +172,7 @@ Pete and Amanda express their appreciation for Alessandro's initiative in contri
 [18:37] Multiparty Payouts, this one that we've just talked about, and then Trustless Shares. Can you say anything about the other two? Have you done much on those? And what's your
 [18:49] interest in those? Yeah, so I think the most challenging is the one with the Masternode with many shares.
 [19:07] But it requires the Multipayouts first. So I haven't touched the one with many shares yet. Right.
-[19:19] So whose concept is that, Ryan? Let me just come out from under the rock I've been in under and say, I didn't know that there was a concept in the incubator
+[19:19] So whose concept is that, Rion? Let me just come out from under the rock I've been in under and say, I didn't know that there was a concept in the incubator
 [19:28] for an implementation of Trustless Shares. Whose is that? Great. What? Yeah, it's actually been a project in the incubator, at least on the board for a long
 [19:43] time, several years. I'm pulling it up right now. But it is one of the more complicated ones. And it's one of the more... It's one that I haven't focused on personally. It didn't used to be my
 [19:58] project. It is now. I think it used to be Tim's. It's like I said, still pulling up, but it's not my focus yet. As far as I know, there are prerequisites that need to be done before we can

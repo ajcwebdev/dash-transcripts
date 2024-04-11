@@ -74,7 +74,7 @@ The importance of a user-friendly experience for merchants and customers is emph
 [05:31] like that. Anyway.
 [05:33] Well, great. Well, everybody, you are joining the Incubator Weekly in which our newest contributor, Yon,
 [05:41] who was using the handle Max prior to creating a new one called Yon, for ease, has submitted a recently accepted concept about which I know very little, and it has to do with merchant
-[05:56] credits. I'm going to ask Ryan to give us an overview of why he accepted that into the Incubator
+[05:56] credits. I'm going to ask Rion to give us an overview of why he accepted that into the Incubator
 [06:06] here in a moment, but before we do, we just want to say hello to Yon and say what's up. So, Yon, how's it going?
 [06:15] It's fine, 2024 here as well, and I'm glad to be on the show. Would you tell us how and when you first learned of Dash?
 [06:29] Well, that was actually quite from the beginning, I guess, 2014, that was. Yeah, well, my background is in academia, so I'm interested, or I was always interested

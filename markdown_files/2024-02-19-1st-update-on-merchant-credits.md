@@ -31,13 +31,13 @@ Jan discusses the development roadmap, including plans to utilize Dash Platform 
 
 ---
 
-[00:00] Recently, DASH Incubator Lead Strategist Ryan Gull was a guest on DAO Watch Fireside with Cryptosi. Near the end of the chat, Cryptosi asked a pretty poignant question.
+[00:00] Recently, DASH Incubator Lead Strategist Rion Gull was a guest on DAO Watch Fireside with Cryptosi. Near the end of the chat, Cryptosi asked a pretty poignant question.
 [00:12] Yeah. What kind of things do you think other DAOs could learn from what's happened with DASH? What sorts of things would you say are, I guess, good practices that DASH has done
 [00:23] or bad practices that other DAOs should avoid? Hmm. I really don't know how to answer that question because I feel like I'm still learning
-[00:32] so much myself. One of the communities that Ryan then went on to mention was not in the cryptosphere,
-[00:37] but the dollar system. In Ryan's words, The dollar system has actually done a lot of things right. They've got a lot of things
+[00:32] so much myself. One of the communities that Rion then went on to mention was not in the cryptosphere,
+[00:37] but the dollar system. In Rion's words, The dollar system has actually done a lot of things right. They've got a lot of things
 [00:43] figured out. The Federal Reserve has got a lot of things figured out. But the problem with those systems is that they're unethical.
-[00:53] Unethical. Not conforming to a high moral standard. Morally wrong. Not ethical. What Ryan said is that the dollar system is unethical. Why?
+[00:53] Unethical. Not conforming to a high moral standard. Morally wrong. Not ethical. What Rion said is that the dollar system is unethical. Why?
 [01:01] They don't allow competition for other people to do what they're doing, which is successful. They don't allow other people to do those successful things.
 [01:12] They don't allow competition. This brings to mind Bernard Van Notthuis, a surfer and mint master at the Royal Hawaiian Mint, who in 1998 launched the American Liberty Dollar,
 [01:22] a private voluntary barter currency. The Liberty Dollar came in rounds and imprinted certificates and was backed by silver and gold. Van Notthuis never put forth that his items were created
@@ -61,7 +61,7 @@ Jan discusses the development roadmap, including plans to utilize Dash Platform 
 [03:57] The intervention of the United States military and their comrades ultimately led to a civil war. Even Obama later acknowledged this shenanigan as the worst mistake in his presidency. But
 [04:05] their goal of stopping someone critical to the U.S. regime and potential competition to U.S. dollar hegemony was successful. It was as if it was out of a playbook or something.
 [04:14] And indeed, looking back, it is exactly how the CIA has operated, their modus operandi to enact regime change by funding adversaries and spreading disinformation. But back to
-[04:23] Ryan's point, that minus the unethical aspect, Daesh could learn some things from the U.S. dollar system. So how do we go about that? Do we ask permission to operate? To compete?
+[04:23] Rion's point, that minus the unethical aspect, Daesh could learn some things from the U.S. dollar system. So how do we go about that? Do we ask permission to operate? To compete?
 [04:33] Do we hope the biggest bully in the schoolyard will chill out and let us play? Do we wait for the U.S. dollar system to collapse? After all, we're seeing the global dominance of
 [04:41] the U.S. dollar slip, what's called de-dollarization. Maybe we should just bide our time? Or do we take what we can learn from the U.S. dollar system and from any other network, build Daesh
 [04:49] into a superior means of exchange and out-compete them? It's not an easy task, but for those of us who prefer not to empower the unethical and to make the world better, today, it's
@@ -73,7 +73,7 @@ Jan discusses the development roadmap, including plans to utilize Dash Platform 
 [05:34] Great. Hello.
 [05:36] Hi, Jan. You all may remember that Jan first visited us about two months ago, and that was when his project, then dubbed Merchant Credits, whoa, did I just make myself? No.
 [05:50] Sorry. We're working with a little bit different setup. But first, it dubbed Merchant Credits was first announced, and Jan has been hard at work since then, and he is here
-[05:59] today to share with us what he has done. So before we send it on over to our friend, Jan, do you have any comments you'd like to make about this project, Ryan?
+[05:59] today to share with us what he has done. So before we send it on over to our friend, Jan, do you have any comments you'd like to make about this project, Rion?
 [06:11] Nope. I think we should probably jump right in to Jan's presentation. I might have some things to say afterwards.
 [06:17] All right. Let's do it. Can I bring up the screen at this point? No. Actually, what you said, it was first named Merchant Credits, and we had it as a
 [06:30] working name, Merchant Credits. And while working on it during the last two months, there were some maybe things that needs to be clarified. And basically, I would like
@@ -129,12 +129,12 @@ Jan discusses the development roadmap, including plans to utilize Dash Platform 
 [19:27] will charge you 30 euros or $30. And once they do it, they show the QR code on their device and by scanning their QR code, you will issue the 30 credits to that customer
 [19:50] and you confirm it on this page. So by this confirmation, the customer will get 30 credits in their wallet.
 [20:02] Amanda scanned my wallet as I'm the customer, Amanda's the merchant. She scanned my wallet. We can go through that again. Amanda, make another issue as whatever amount.
-[20:15] So it's my cookie store and Ryan wants to buy $200 to support his diabetic constitution. I think it's set to euros, but whatever. Okay. But go and issue. You can read in the
+[20:15] So it's my cookie store and Rion wants to buy $200 to support his diabetic constitution. I think it's set to euros, but whatever. Okay. But go and issue. You can read in the
 [20:33] small square. Now Amanda is scanning my QR code at this point. Right? Exactly. It's written in the small square, but Amanda is scanning the QR code generated by your wallet on your
 [20:52] device. Yeah. I installed the same application, but instead of merchant or business, I clicked
 [20:59] individual. And then when I wanted to buy the credits, I pressed some buttons and I got a QR code on my phone. And now I handed over the 200 euros and Amanda is now waiting
 [21:11] for me to present my QR code, just like I would receive crypto. I present my QR code. She's going to scan it. And that way she sends me this token.
-[21:24] Exactly. So you can cancel it also on the top. So you go back. So this is the issuance. And right now, let's say that you, Ryan, come back two hours later or maybe a week later
+[21:24] Exactly. So you can cancel it also on the top. So you go back. So this is the issuance. And right now, let's say that you, Rion, come back two hours later or maybe a week later
 [21:46] and you are purchasing some cookies for euro 20. So Amanda goes and you tell her that you pay with your credit. So she enters euro 20 and then she presses receive purchase credits.
 [22:05] Okay. And now I'm scanning her QR code. Exactly. Now it's you who's scanning with your wallet, this QR code, and then you need
 [22:18] to confirm it. We actually can go through the customers experience as well because we just need to go through the setup again.
@@ -169,8 +169,8 @@ Jan discusses the development roadmap, including plans to utilize Dash Platform 
 [28:27] even change between the units. But technically it works so that the issuer is the one who automatically recognizes the, its own credits. It doesn't recognize somebody else's credits.
 [28:47] So if you, so, so, so to give any, to give example to one time, if, if you would come to Amanda's shop and you would have in your wallet only credits from some other shop.
 [29:02] Okay. And you would try to, uh, to pay with that to Amanda, her, her app would not recognize it. It was just, it just would not, it just would not go through. Right. Okay. All right.
-[29:18] So now I will go in as a business. No, as an individual. Thank you. As a, as individual Ryan. So yeah, this is me. So existing again, like with the merchant, it would be a mnemonic
-[29:34] and new, which is, Hey, we'll generate a new empty one. All right. So, um, this is, would be from Ryan's point of view. He's in, he has a new one. He has a new one, so he cannot,
+[29:18] So now I will go in as a business. No, as an individual. Thank you. As a, as individual Rion. So yeah, this is me. So existing again, like with the merchant, it would be a mnemonic
+[29:34] and new, which is, Hey, we'll generate a new empty one. All right. So, um, this is, would be from Rion's point of view. He's in, he has a new one. He has a new one, so he cannot,
 [29:49] he cannot do anything else than fund new purchase credits. Yeah. Yeah. And this is that step where I'm at the counter of Amanda's cookie store and you have to pay the 200 euros or
 [30:06] I paid with a credit card or whatever. And then, okay. Now you have the option to see your available credits and spend them. Yep. Okay. So now I have my phone, I'm spending
 [30:23] my credits that I already have in my wallet now, and I'm scanning your, Hey, there you go. QR code. What's this fancy lock for? Yeah. It's just so that, so that it does not confirm
@@ -255,7 +255,7 @@ Jan discusses the development roadmap, including plans to utilize Dash Platform 
 [49:38] you know, three dimensions and time. That's, uh, that's my, that's my background. And this is, this is, this is really like, uh, like a fun, uh, fun project for me that, uh, yeah,
 [49:55] I like cryptocurrencies and, and, uh, and I like dash. So this is, this is a, you could say it's a, it's a hobby project, but I, I, I would like to try to do it, um, to finish
 [50:13] something out of this. Well, the app we've been talking about today would work in space and time. So I see right in there. So, um, yeah, we will see you all next week when we
-[50:29] are going to have an update. Is it from Jojo or from Alessandro next week, Ryan? Uh, I believe Alessandro. And what is Alessandro going to tell us about? Uh, he's been doing
+[50:29] are going to have an update. Is it from Jojo or from Alessandro next week, Rion? Uh, I believe Alessandro. And what is Alessandro going to tell us about? Uh, he's been doing
 [50:40] some work on the, the core dash core, uh, through the incubator. So I just wanted to get some insights on, on what he's, he's up to, um, a little bit more in depth. I, I think
 [50:54] we'll wait till next week. Cause he has about three different projects, uh, that he's working on and I'm not sure if we want to cover them all in one episode or split it up, but, uh,
 [51:06] yeah, it's some exciting stuff on the dash core side. Okay. Sounds good. All right. Until then. Bye everybody. Bye.

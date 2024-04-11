@@ -65,13 +65,13 @@ The Dash Incubator plans to integrate Maya into their web wallet, providing a us
 [04:37] and one that acts as an independent and self-sustaining circular economy. Sounds good. Let's make it happen.
 [04:42] We're on the right side of history here. And those that are looking to destroy and ban these freedom tech tools,
 [04:49] they're on the wrong side of history. Absolutely.
-[04:58] Dang, I like it when things include both a problem and a solution. Don't you, Ryan?
+[04:58] Dang, I like it when things include both a problem and a solution. Don't you, Rion?
 [05:03] Well, there's nothing more important than the solutions, for sure. But you first have to identify the correct problems to be solving, I think.
 [05:11] So they're both important. Right on.
 [05:14] Well, today we are talking about one of the more fun solutions in the Dash space currently, which is how do I trade from one crypto to another crypto?
 [05:25] And also, how do I earn on crypto outside of... Well, in the case of Dash, outside of the masternode system,
 [05:32] how do I earn on my Dash in a permissionless setting? So we're here to talk about the Maya protocol.
-[05:38] So you have been digging into this decentralized exchange system pretty heavily recently. Is that right, Ryan?
+[05:38] So you have been digging into this decentralized exchange system pretty heavily recently. Is that right, Rion?
 [05:45] Yeah, I've got the bug, I guess you could say, with decentralized exchanges in general. And why they're so important.
 [05:57] And so I have been digging quite a bit into Maya, into ThorChain before that. Because I think it's so important that we build this infrastructure.
 [06:09] And not just the infrastructure, but we transition people to being, to using decentralized exchanges over centralized exchanges, first and foremost.
@@ -325,7 +325,7 @@ The Dash Incubator plans to integrate Maya into their web wallet, providing a us
 [46:36] it's not changing or something like that. Well, not only that, but then if someone who can do a better job than incubator can do
 [46:45] with the wallet, they can just fork it and make their own and do better. Right.
 [46:49] Yeah. And the more the merrier on this kind of thing.
-[46:52] So, yeah, that's what I would encourage as well. So is there any when when WebWallet, Ryan, when the WebWallet's already already active,
+[46:52] So, yeah, that's what I would encourage as well. So is there any when when WebWallet, Rion, when the WebWallet's already already active,
 [47:05] it's just not something that we've promoted because we haven't done like a thorough security audit or anything like that.
 [47:11] So we're not we're not promoting it yet, but it is it is functional and it has an interesting username experience that's not tied to platform necessarily, but it's tied to X pubs.
 [47:23] So that's something that we were developing for quite a while. And now that we have that and we have the basic functionality of a wallet,

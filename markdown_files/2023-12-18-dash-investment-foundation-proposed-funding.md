@@ -153,9 +153,9 @@ Amanda and Rion share their views that the DIF's funding proposal is a worthwhil
 [23:25] of course, needs to be willing to pay for that, too, because that will significantly increase our cost base, going from very little -- a couple bucks we pay for hosting. Well, actually,
 [23:37] the director's fees are quite a significant chunk. But that would add a significant step up on our cost base. And if you see that a community even has a hard time even approving money for the
 [23:51] investments themselves, how much can you expect them to, on top of that, also approve funds to be used for paying people, right? Okay. Well, I want to zoom out a little bit
-[24:07] from our operations speak that we've been in. And I want to talk about -- and this is where I'd like to get Ryan's input, because Ryan has mentioned many times in the past that we find ourselves in
+[24:07] from our operations speak that we've been in. And I want to talk about -- and this is where I'd like to get Rion's input, because Rion has mentioned many times in the past that we find ourselves in
 [24:23] a somewhat unique situation in Dash in that we obviously had no kind of ICO whatsoever. And to our knowledge, to the best of our knowledge, we have had no real venture capital interest in Dash
-[24:40] either. These two things combined with having no traditional foundation means, in my view, does it kind of mean to you also, Ryan, that it means that Dash needs some unique money arm, like money flex,
+[24:40] either. These two things combined with having no traditional foundation means, in my view, does it kind of mean to you also, Rion, that it means that Dash needs some unique money arm, like money flex,
 [24:58] or what are we missing in that? And can the DIF fill this role that other coins get filled with ICOs and VC funding? >> Yeah, I'll speak to that. And I'd also like to back up, like you said,
 [25:11] and give a little bit more context to what we're talking about. We're about 25 minutes in and we haven't really talked about -- so if you could do my screen share real quick. I want to at least get
 [25:22] on screen what we're talking about, which is the actual proposal. I'm going to log out just for a minute here so that people don't see all my votes and whatnot for the comments. But
@@ -173,7 +173,7 @@ Amanda and Rion share their views that the DIF's funding proposal is a worthwhil
 [28:52] Dash. We had to bootstrap value in the coin itself through internal means only. We didn't get a bunch of dollars that we can keep people employed with. And so that's pretty much the same thing that
 [29:11] venture capital does, is it does help these companies, you know, it provides funding for the developers of these companies to start building value and have -- increase that value. And there
 [29:30] is some nuance about how that value is increased. I think partly -- there's so much to say about this that I'm stumbling a little bit, but I think it would be difficult for somebody in the community
-[29:45] just to kind of put me down and say, hey, Ryan, are you actually for venture capital or are you against venture capital funding? And the nuance is that I think that venture capital activities,
+[29:45] just to kind of put me down and say, hey, Rion, are you actually for venture capital or are you against venture capital funding? And the nuance is that I think that venture capital activities,
 [29:58] such as what the DIF is doing, is absolutely crucial to figure out. But I'm extremely critical of venture capital in the fiat world and how that's destroying businesses. So in any case,
 [30:12] I'm very, very supportive of this proposal by the DIF. And I would love to see it funded, frankly. So I just put that out there. If anybody's, you know, curious about why, you know, that's I guess
 [30:28] what we can talk about. But part of what I wanted to ask Sven about is part of the proposal and a lot of the discussion that I've seen is related to this sentence that -- and maybe you can bring up
@@ -226,7 +226,7 @@ Amanda and Rion share their views that the DIF's funding proposal is a worthwhil
 [42:41] dollars, pushing the price down. But at least in the short term, if the DIF was to just hold on to that 600 Dash times three 1800 Dash, as a fund awaiting a further price appreciation, it literally
 [42:59] has no difference in terms of the market price of Dash to create it or not create it if it's going into just being held. The only difference is creating that Dash increases the market capitalization by
 [43:14] 1800 times 30 or whatever that is. We increase the market capitalization with no sell pressure, and we have some opportunity to then invest that for growing the ecosystem. I see very,
-[43:28] very little downside if that was the case, that you were just going to hold it until the price appreciates a bit. Yeah, Ryan, exactly. You're taking the words out of my mouth. That's
+[43:28] very little downside if that was the case, that you were just going to hold it until the price appreciates a bit. Yeah, Rion, exactly. You're taking the words out of my mouth. That's
 [43:39] exactly what I also felt, and I posted a comment along those lines on the proposal. It was, in fact, one of the reasons why we decided to now come forward with it was the budget is being
 [43:55] increased this month. If you add up all the proposals that are being listed there, you realize that if something big doesn't pop up in the next three or four days, then a lot of value
 [44:13] will just go unused. Those Dash will not be created. I understand that it might be the preference of some people to say, "Well, we don't really need to increase the money supply, and
@@ -282,12 +282,12 @@ Amanda and Rion share their views that the DIF's funding proposal is a worthwhil
 [57:28] portfolio companies that have led to higher valuations, I explain why, and hopefully people will agree with my assessment. Final question for you, and this is a question about the talent
 [57:43] other than yourself at the DIF, and apologies if you guys covered this already while I was briefly offline. Now, is it true that the founder, the creator of the DIF, Ryan Taylor,
 [57:58] is advisor for you all? Also, obviously, volunteer for free. Do you have Ryan Taylor as an advisor? Yes, we do. Yeah, we do. He has an advisory contract with us with a salary
-[58:15] of a symbolic $1 per year. So before people all jump up in arms, he's getting a symbolic $1 per year, which I believe, I'm not sure we even have paid him this year, that $1. So Ryan,
+[58:15] of a symbolic $1 per year. So before people all jump up in arms, he's getting a symbolic $1 per year, which I believe, I'm not sure we even have paid him this year, that $1. So Rion,
 [58:34] if you're watching this, I guess we owe you a buck or something. But it was necessary, I think, to put it in a contract somehow for some legal reasons, which I am not fully, like, not on top
 [58:46] of my head. But essentially, yes, he is also working for free. He is participating in many of our calls, not in all of them. He does not have a vote. He does not get to set direction
 [59:00] or tell us what to do. But he does give valuable advice. The DIF itself is his brainchild. He did bring some of the early investments and also, frankly, some of the most successful investments
-[59:16] so far to the DIF. And for that, I'm grateful. I think having Ryan on board, I was going to say on board, but it sounds wrong because it's not the Board of Supervisors, but having him available
-[59:33] is definitely helpful. Yeah. Okay. Well, thank you for clearing that up. I know you already gave your opinion on this proposal, Ryan. And I guess as we're closing up now, I would like to
+[59:16] so far to the DIF. And for that, I'm grateful. I think having Rion on board, I was going to say on board, but it sounds wrong because it's not the Board of Supervisors, but having him available
+[59:33] is definitely helpful. Yeah. Okay. Well, thank you for clearing that up. I know you already gave your opinion on this proposal, Rion. And I guess as we're closing up now, I would like to
 [59:47] give my opinion on it as well. But yeah, just long story short, the fact that it appears to me that two of the most experienced, if not potentially the most experienced individuals in the Dash
 [60:02] sphere when it comes to traditional investing, that is Sven Rosbach and Ryan Taylor, the fact that they are making themselves available to try to bring their expertise to a realm of Dash that
 [60:15] we could really use some help in given that we've had no ICOs and no venture capital official involvement, the fact that they are willing to bring this talent to us, not even to mention for
@@ -308,6 +308,6 @@ Amanda and Rion share their views that the DIF's funding proposal is a worthwhil
 [63:51] and then get to the third one. And then at some point, later investors will buy out the early investors. But that process is not something that goes from zero to like 10x exit in two years.
 [64:05] That's completely, I mean, maybe that might happen sometimes, but those are outliers. You got to be in it in the long haul and you can't pull the rug out from underneath your
 [64:19] entrepreneurs. So that's where we are today. And we still have a bit of runway to go. And hopefully the community will go that way with us. Right on. All right. Good closing words. Thank
-[64:36] you for joining us today, Sven. Thank you for everyone who chimed in with comments and questions and we'll see y'all next. No, we won't because next week is Christmas. Yeah, Ryan?
+[64:36] you for joining us today, Sven. Thank you for everyone who chimed in with comments and questions and we'll see y'all next. No, we won't because next week is Christmas. Yeah, Rion?
 [64:48] Yeah, I don't think. Well, I haven't really thought about it, but if it is Christmas, then I'm not going to be on the show. I don't think. Okay. It is Christmas. We won't see you
 [64:58] next week, but we'll see you the week after. So thanks everybody. Sounds good. Bye. Thanks, Sven. Thanks, Sven. Bye. Thanks for having me.

@@ -443,7 +443,7 @@ The remaining tasks for Electrum Dash development are outlined, such as marking 
 [44:01] merchant credits, is that who we have on board, or was it something else?
 [44:06] - The 17th of, if next Monday is the 17th, then that is probably, yes.
 [44:13] I'm sorry, is it the 19th? Yes, okay, yes, we will.
-[44:17] Thank you, Ryan. Yes, next week we are going to have our first update
+[44:17] Thank you, Rion. Yes, next week we are going to have our first update
 [44:22] since the initial announcement about the merchant credit system, if you'll recall.
 [44:28] That was Jan, long time Dash lurker, who finally found some free time in his busy schedule
 [44:37] and brought a brand new concept. First pitched it actually at the Utah Dash Retreat,

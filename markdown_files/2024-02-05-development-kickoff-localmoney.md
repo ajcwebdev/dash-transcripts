@@ -163,7 +163,7 @@ The importance of a solid escrow system to the minimum viable product is highlig
 [29:05] Well, if so, I was thinking about that, but I have to research it as well. So I think it should be possible to do that, but I haven't checked this out yet.
 [29:26] Okay. Splavik just made a comment saying that local money's Michael wants to build. So I don't know.
 [29:33] I think he meant. Oh, okay. I was going to say, maybe there's a contact for you, Mikhail. It just happens
-[29:38] his name is Michael. Okay. Can we talk about BISC for a moment? I'm glad you brought that up, Ryan, because it is, as you said, in a lot of ways, fairly similar to what we're
+[29:38] his name is Michael. Okay. Can we talk about BISC for a moment? I'm glad you brought that up, Rion, because it is, as you said, in a lot of ways, fairly similar to what we're
 [29:49] talking about here. And I don't know about the traffic that BISC is or is not seeing to this day. Somebody please chime in if you know that. But I did try to become a BISC
 [30:08] user four or five years ago or whatever. I actually interviewed the guy the week after he launched it back when it was called BitSquare. And I guess that wasn't a good name. It was
 [30:20] already in use somewhere else and he didn't know. But yeah, long story short, BISC was a client you had to download to your desktop and it needed to be left running in order
@@ -177,14 +177,14 @@ The importance of a solid escrow system to the minimum viable product is highlig
 [31:38] just supported gift cards or whatever, like, "Hey, send me your gift card for this store." I imagine they supported PayPal, et cetera, and et cetera, et cetera.
 [31:47] I might have to walk that back just a little bit. Sorry. I may be getting my experiences mixed up with LocalBitcoins and things like that. So I'm not 100% sure that they did support
 [31:58] bank transfers, but keep going. Okay. Yeah. Well, anyway, yeah, I just remember I downloaded the client. I was ready to make
-[32:07] a trade. I was feeling excited. And kind of just like you mentioned, Ryan, there seems to be... Well, I guess it didn't support the trade I was looking for. But anyway, la, la,
+[32:07] a trade. I was feeling excited. And kind of just like you mentioned, Rion, there seems to be... Well, I guess it didn't support the trade I was looking for. But anyway, la, la,
 [32:22] la. No more of my experiences. I just want us to discuss, if we might, why didn't BISC take off? And can we prevent ourselves from going down that same path?
 [32:40] I kind of already gave my opinion on that. I think it's going to be very difficult. Is it possible that BISC did not take off because of Bitcoin fees? Or is that not the
 [32:58] thing? I think there is also another reason, is that it's hard to adopt because you have to download
 [33:09] the client on your laptop. And with the local money, our goal is to allow you to use it on your mobile phone, to use it from your web browser so that it targets more people,
 [33:29] more audience to use the local money. Yeah, that's a significant issue, I think. That was one of the big problems with BISC.
 [33:39] Yeah. I remember people saying that that was another reason they thought that this is not that related, but open bazaar, why they thought that that didn't go anywhere. Because, again,
-[33:49] you had to keep basically acting as a node all the time. So, Mikael, do you just hope that it's possible that no one has to act as a node in this case, or you know it's possible?
+[33:49] you had to keep basically acting as a node all the time. So, Mikhail, do you just hope that it's possible that no one has to act as a node in this case, or you know it's possible?
 [34:00] And if so, why has no one done this yet? Yeah, what are the tradeoffs? Because they were obviously requiring that you download
 [34:07] the software to your own machine so that there was more or less no middleman. So what are the tradeoffs to the solution that you've proposed?
 [34:19] The tradeoffs is in, the first, the BISC have, you have to download the client. In the local money, you can have an application on your web browser and you can have just, you can

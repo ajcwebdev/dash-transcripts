@@ -74,7 +74,7 @@ Rodrigo explores how the 88i insurance model could expand to cover things like y
 [04:23] and such a crypto is better than another crypto, but that positions the superior crypto against its real competition, CBDCs, that makes clear what is at stake.
 [04:33] Perhaps then, as more CBDCs are piloted and rolled out, we'll see more individuals looking for an alternative that works.
 [04:40] We need to be ready. We need to put our best foot forward.
-[04:42] We need to observe, think, act, and repeat with precision. Good morning, good day, welcome to Incubator Weekly, Rodrigo and Ryan, how are you today?
+[04:42] We need to observe, think, act, and repeat with precision. Good morning, good day, welcome to Incubator Weekly, Rodrigo and Rion, how are you today?
 [04:59] And did either of you find yourself during the newsreel thinking, yes, I've had that experience where someone asks me about crypto or whatever, and I just find myself wondering,
 [05:08] wow, what is he thinking when he's asking me this, because yeah, there's different options out there.
 [05:15] Yeah. Good morning.
@@ -253,7 +253,7 @@ Rodrigo explores how the 88i insurance model could expand to cover things like y
 [33:19] I feel sad that no other blockchain has been able to fully onboard 88i so far, even though you've known for years that you want that solution.
 [33:30] And at the same time, I feel so happy that that means that Dash still has a chance to onboard 88i.
 [33:36] So what remains to be done? Is this a platform thing?
-[33:42] Is this a can we get started now thing? Maybe this is a question for you, Ryan.
+[33:42] Is this a can we get started now thing? Maybe this is a question for you, Rion.
 [33:46] Like, how can we solve Rodrigo's problems, like, as soon as humanly possible? >> Yeah.
 [33:53] And we talked about this in our previous call. So I asked Rodrigo, and you can kind of correct me and add to this as well, Rodrigo, after.
 [34:02] But I wanted to know, what exactly do you want to store on a blockchain? Like, what kind of data is this?
@@ -300,7 +300,7 @@ Rodrigo explores how the 88i insurance model could expand to cover things like y
 [41:17] And this is transparent to everybody, it's public, it is auditable. Then you could make sure this time you're protected, this time you're not.
 [41:31] And then the information is related to the specific type of risk itself, because this means the triggers that we would pull from the super apps as oracles to settle the claim.
 [41:44] So let's say I have an accident, so I have geolocation and g-forces of impact. So those could be, for example, triggers that I pull from the super app.
-[41:56] And then I can publicly say, OK, this policy had a claim, and then I did owe money to Ryan as a customer for you, I have to pay out.
+[41:56] And then I can publicly say, OK, this policy had a claim, and then I did owe money to Rion as a customer for you, I have to pay out.
 [42:13] Without revealing your personal data, the information about the insurance itself, type of a risk, and your policy number, this will be the kind of information stored in the chain.
 [42:25] Now, in our last conversation, we talked about, and I'm looking at my whiteboard because I wrote some notes down, we talked about your experience and your history of the Brazilian
 [42:38] economy and what that's done. So I don't know, we don't want to spend too much time on this, but I did want to, we talked
@@ -402,7 +402,7 @@ Rodrigo explores how the 88i insurance model could expand to cover things like y
 [60:32] But we must insure that it's transparent, verifiable, no conflict of interest, and we can settle in real time.
 [60:40] If so, I'm there. Great.
 [60:43] Well, that sounds like some pretty specific and I hope achievable requirements for a solution for 88i to move to the blockchain.
-[60:55] Do you have any final comments, Ryan? Yeah.
+[60:55] Do you have any final comments, Rion? Yeah.
 [60:59] So this is basically just the kickoff to working together with 88i and Rodrigo with the incubator. We'd like to help him build on Dash platform, whatever his business needs are.
 [61:11] We don't question them. He has a business need.
 [61:13] We just help with the technical solution. This was basically just the kickoff to show we have a real customer here who has a real
@@ -411,7 +411,7 @@ Rodrigo explores how the 88i insurance model could expand to cover things like y
 [61:36] So that's what we want to test it with, and we will move into that as soon as we can with a stable testnet.
 [61:43] So that's the plan, and we'll just do that as soon as we can. Well, that sounds great.
 [61:48] Well, I really look forward to being updated along the process of crafting this solution. And thanks for joining us today, Rodrigo, and we look forward to talking to you again
-[61:59] in the future. And I also wanted to thank each one of you, Ryan, Amanda, and the Dash community.
+[61:59] in the future. And I also wanted to thank each one of you, Rion, Amanda, and the Dash community.
 [62:09] Also for the trust of DIF, because I am invested by DIF. So I wanted to thank the whole community for this.
 [62:18] You are the ones who make it possible. Right on.
 [62:22] Thanks for joining us, everybody. See you next time.

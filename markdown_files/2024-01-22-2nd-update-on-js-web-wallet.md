@@ -118,7 +118,7 @@ Amanda asks about adding multi-sig support for security. Rion suggests it's not 
 [10:34] I can't take credit for the styling, though. A lot of this was done by Nick.
 [10:40] I've adjusted some of the design to suit things we had missed in the planning process. But most of this styling is from the Figma designs
 [10:54] that another designer had made for the project. Fair enough.
-[11:00] And this is the source code link that Ryan was talking about. So that is in the wallet.
+[11:00] And this is the source code link that Rion was talking about. So that is in the wallet.
 [11:08] You should easily be able to find it once you've generated or imported a wallet. So we've got a wallet here.
 [11:17] This is a new one. I've never used it before.
 [11:21] It has no funds. I'm going to go ahead and import or add an existing wallet in this right one here.
@@ -175,14 +175,14 @@ Amanda asks about adding multi-sig support for security. Rion suggests it's not 
 [18:44] And then I click add contact. And now I see you as a contact for me.
 [18:51] So I'm just going to click your username and then hit send. And I'm going to enter, let's say, 0.01- and I'm clicking send.
 [19:03] And then I confirm. So hopefully that will come over to your side momentarily.
-[19:11] Yeah, so that should come in here. But I haven't finished pairing with Ryan's.
+[19:11] Yeah, so that should come in here. But I haven't finished pairing with Rion's.
 [19:16] So I need to give you my pairing. I should be able to see those funds regardless.
 [19:25] Yeah, so look at that. I'm actually not sure why they didn't.
 [19:29] There was not a fee deduction there, or am I wrong? Tell me about the fees.
 [19:33] The fees are extremely minimal. But there are fees we're sending on the Dash network.
 [19:46] So there are fees. But KoolAJ86 had done a lot of work to optimize what he could.
-[19:55] And a lot of it, if I recall correctly, I think Ryan's probably watched more of his streams on Dash than I have.
-[20:02] But he investigated how things were being done. I like that Ryan sent 0.01 and you received 0.01 instead of 0.009.
+[19:55] And a lot of it, if I recall correctly, I think Rion's probably watched more of his streams on Dash than I have.
+[20:02] But he investigated how things were being done. I like that Rion sent 0.01 and you received 0.01 instead of 0.009.
 [20:15] I'm just wondering why. Yeah, so it added it on.
 [20:20] Yes, that's automatically subtracted from whatever wallet he's using. Okay.
 [20:28] Okay, now, Jojobite, can you tell me where do I go to help share my information with you so that we can do this pairing?
@@ -191,7 +191,7 @@ Amanda asks about adding multi-sig support for security. Rion suggests it's not 
 [20:49] And that should show you the pairing information. Copy URI, and then I'm sharing that with you over StreamYard.
 [20:57] Okay, go ahead and you should see it now. All right.
 [21:04] Okay, so now I can finish this pairing. Pasting his in there.
-[21:12] And it's got a getKeyStore alias. I'm going to actually call this Ryan though.
+[21:12] And it's got a getKeyStore alias. I'm going to actually call this Rion though.
 [21:20] Yep. I'm going to add contact.
 [21:24] So now I've got his finished pairing. And we've already received funds from him.
 [21:31] So we've got a little bit more in this brighter text area. Okay.
@@ -202,7 +202,7 @@ Amanda asks about adding multi-sig support for security. Rion suggests it's not 
 [22:06] There we go. So it's deducted and I'm not sure what my balance was before,
 [22:12] but I think it's probably, yeah, updated. So, okay.
 [22:19] So why this wallet? We have Dash wallets.
-[22:22] Why this wallet, Ryan? So yeah, we have Dash wallets.
+[22:22] Why this wallet, Rion? So yeah, we have Dash wallets.
 [22:29] We have a mobile wallet, either on iOS or Android. And we have a desktop wallet, or at least, yeah.
 [22:39] Speaking of DCGs wallets, they create a mobile wallet and a desktop wallet, but we don't have a web wallet.
 [22:46] We did have, I think we did have a web wallet at one point, but that's no longer maintained.
@@ -258,17 +258,17 @@ Amanda asks about adding multi-sig support for security. Rion suggests it's not 
 [29:19] And with the backup features that we've just got added over the last few days, it is reaching the end.
 [29:27] The only reason this isn't checked off is because I want to tweak the backup dialogue a little bit. But once that's done, we've completed stage one.
 [29:37] We need to do some bug like testing and stuff like that. But other than that, we should be good to move on to stage two.
-[29:46] However, that's where Ryan is saying we should, he and I and anyone else involved in the community that's interested in this
+[29:46] However, that's where Rion is saying we should, he and I and anyone else involved in the community that's interested in this
 [29:55] should voice their opinions of what is higher priority. So a lot of this was done, for example,
 [30:05] I don't think Maya was released with Dash when we were planning this. - Right.
 [30:11] - So I think we knew it was a possibility, but when it was up in the air, there was no sense saying,
 [30:18] this is going to be our next feature. But now that it's released and we can integrate it and we've done testing with it,
 [30:26] and we know how to integrate, that might be higher priority. It might very well be the next thing we do.
-[30:33] And so that's where Ryan and I probably need to reorder this to move things around to like, what should be stage two?
+[30:33] And so that's where Rion and I probably need to reorder this to move things around to like, what should be stage two?
 [30:43] Should stage two be this long? Should we try and shorten it to just a couple of things?
 [30:47] Should we, you know, there's a lot here that can be done. But all in all, stage one was the biggest stage
 [30:57] just because we had to get all of the core groundwork done. And, you know, the foundation laid for the rest of it.
-[31:06] And to your point, Ryan, the advantage to doing this as a web wallet is people don't, sorry, not people.
+[31:06] And to your point, Rion, the advantage to doing this as a web wallet is people don't, sorry, not people.
 [31:19] We don't need to submit this to an app store to get it approved. If we want to integrate with, and I think we had it down here somewhere.
 [31:28] So if we want to integrate with Crowdnode, if we want to integrate with Maya, I thought we had, oh, there we go.
 [31:34] BitRefill, DashDirect, sorry, rest in peace. That proves how long this has been planned is DashDirect is still on there.
@@ -319,7 +319,7 @@ Amanda asks about adding multi-sig support for security. Rion suggests it's not 
 [36:11] And this is part of why I haven't completed it is instead of showing this,
 [36:16] I think you should have to reenter. Even if it's stored temporarily in the browser,
 [36:22] I think you should have to reenter your decryption password to see the recovery phrase.
-[36:27] At least that's where I stand. Maybe Ryan disagrees.
+[36:27] At least that's where I stand. Maybe Rion disagrees.
 [36:31] - Yeah, we'll talk about it later. - Yeah, this should show a couple different buttons
 [36:37] and that's what I'm planning to do that I wasn't able to get done before this presentation,
 [36:42] but it should show a backup key store so you can get just the key store.

@@ -259,7 +259,7 @@ They wrap up the episode, recapping what was covered and discussing plans for fu
 [31:09] somebody if this is too fast for somebody, they don't really know what's going on, then we can we can explain a little bit more
 [31:15] when we have a little bit more time. Yeah, let's let's um, actually, we do have to stop right here
 [31:21] because I'm having some issues with testnet or not testnet. I mean, the faucet. So, um, I just dumped my the wallet into chat.
-[31:33] It says to Ryan, can you try just getting some funds into this from your faucet or from the faucet?
+[31:33] It says to Rion, can you try just getting some funds into this from your faucet or from the faucet?
 [31:41] Yes. Let's see. Do you have a link to the faucet handy that you could throw into the chat? Yes.
 [31:53] I put it in regular chat and private chat. And someone is in the chat here saying, very well done. It's a simplicity. Thank
 [32:05] you. Appreciate that. And then incorporate some chat GPTMO saying we're starting Yeah, unless they're philosophically

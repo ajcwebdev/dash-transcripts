@@ -415,7 +415,7 @@ The host walks through the team's budget planning spreadsheet for Q2, explaining
 [52:05] but now we've got it to a very stable state. Uh, this is mostly UI. We have scaffold there for integration into, um, sort of platform,
 [52:15] but we've had issues developing against platform as, uh, mentioned a little bit earlier. Um,
 [52:20] so part of this is going to be a case of leveraging the work that Chen make is doing both in terms of a lightweight library or using platform explorer to make
-[52:29] things faster. And as well as the work that Ryan's doing in terms of, uh, the vinyl,
+[52:29] things faster. And as well as the work that Rion's doing in terms of, uh, the vinyl,
 [52:34] vanilla web wallet, just more efficient, faster, uh, more secure libraries, less dependencies, cleaner code base. You know, um, it might,
 [52:42] may seem that three, the three of us are working on a separate sort of work, but there's a hell of a lot of overlap between what we do and part of what
 [52:51] Brian's kind of job is, uh, is to kind of see that cohesion, uh, in terms of a longer term vision. Uh, so in terms of this,
@@ -477,7 +477,7 @@ The host walks through the team's budget planning spreadsheet for Q2, explaining
 [59:30] but that's a way that we can make this a lot faster and not have people sitting there for however long, uh, waiting to, you know,
 [59:38] check against the entire record of usernames, which is only going to get longer, um,
 [59:42] on the actual blockchain rather than fire and explorer. Um, so yeah, there's so many parts of this, um,
-[59:49] but it overlaps a lot with what Ryan's working on the vanilla web wallet in terms of libraries that they built there that less dependencies, faster,
+[59:49] but it overlaps a lot with what Rion's working on the vanilla web wallet in terms of libraries that they built there that less dependencies, faster,
 [59:57] more secure, just, you know, it's going to be a lot better on that and things like, uh,
 [60:01] Mikhail working on the SDK, um, and the explorer. So my next quarter will be, uh, focused on more work on this. I don't,
 [60:08] not really the only other project I would can see myself working on is a project that uses this,
@@ -553,7 +553,7 @@ The host walks through the team's budget planning spreadsheet for Q2, explaining
 [68:48] Um, but that's all I wanted to say about that. Ash, you mentioned something about, um, you guys are, are using remix, uh,
 [68:57] framework. I wanted to mention just real briefly, that this epic web dev conference, uh,
 [69:04] that I'm going to be attending next week is put on by, uh, Kent C Dodds, who is the creator of remix or not. He was one of the,
-[69:14] uh, it was a Ryan Florence. And, uh, what's the other Michael Jackson, not that Michael Jackson, but the other.
+[69:14] uh, it was a Rion Florence. And, uh, what's the other Michael Jackson, not that Michael Jackson, but the other.
 [69:22] They are Utah guys, uh, or at least one of them is, and, or two of the, uh, let's see, Kent's not part of the remix team,
 [69:30] but he w he uses it extensively in his course and he's putting on this conference. I will see him. I will see here's Kent.
 [69:37] I will see many of these coming right down the street from me. So we've been loving remix. So, uh, yeah, if you can, uh, get, get any, uh,
@@ -563,7 +563,7 @@ The host walks through the team's budget planning spreadsheet for Q2, explaining
 [70:07] trying to do that on pure front end, rather than subside rendering. It's just, it's a joke and it was just faster than the next as well. Just, yeah,
 [70:15] we really like remix. I actually, um, last year I reached out to remix.
 [70:20] They were having this conference last year and I reached out to them, um, cause I know them from local meetups, uh, Kent at least. And, and,
-[70:27] and Michael and Ryan I've met as well. Um, I wanted to sponsor them. I have dash sponsor them, or at least to open a conversation about it. They,
+[70:27] and Michael and Rion I've met as well. Um, I wanted to sponsor them. I have dash sponsor them, or at least to open a conversation about it. They,
 [70:36] they ultimately didn't feel comfortable with that because they are now owned by Shopify who is, you know, a payment provider. So they,
 [70:48] they weren't comfortable with it. I, I would hope that at some point we can break into that, um,
 [70:54] give them some money and, and help increase a dashes reputation in this space as we discussed earlier.

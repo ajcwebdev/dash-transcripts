@@ -73,7 +73,7 @@ Rion notes they only scratched the surface of this complex topic. He thinks ther
 [06:49] cash that I know, any kind of cash system or capital system where there's a monetary unit involved, also has a labor component where there's the monetary side and then there's the labor side.
 [07:06] And it's the marriage of those two that make a sustainable economy. And the labor side is supposed to build goods and services that the capital is exchanged for. So
 [07:24] it doesn't make any sense to have a monetary unit where that monetary unit is just, you just hold it and sit on it and have it as savings. It needs to circulate in the economy in exchange for
-[07:38] goods and services. So Ryan, are you saying that it's not enough to just say that Dash is digital cash and have that be it? And actually, ironically, making a declaration that something is money
+[07:38] goods and services. So Rion, are you saying that it's not enough to just say that Dash is digital cash and have that be it? And actually, ironically, making a declaration that something is money
 [07:52] actually is the definition of fiat. Fiat means by decree. So can we not just say that Dash is digital cash and that's it? That's what I'm saying. I'm saying we cannot do that. So that's
 [08:03] actually, on the one hand, it's one of our strengths that we have digital cash seared into our brand. But on the other hand, we tend to think that, oh, well, we'll just claim that we're digital
 [08:14] cash and then the people will start coming. But that is not the case. We actually have to have this other side of the coin, which is the labor force to create the goods and services that this
@@ -216,7 +216,7 @@ Rion notes they only scratched the surface of this complex topic. He thinks ther
 [38:08] of any particular masternode, right? So every masternode, the IP address, and hopefully soon the domain name will be listed in the POSI registry, the proof of service registry, the
 [38:21] ProReg TX messages, right? So you can scan the blockchain and you can see every IP address of every Dashnode that's ever been. And that tells you the physical location of it down to the data
 [38:34] center or the neighborhood of where that's hosted. So if I was to host one out of my house from the IP address, you could tell what city I'm in, potentially what neighborhood I'm in. So you know
-[38:49] very, very easily what country an IP address is in. So depending on the political leanings, I know Ryan said we don't want to focus around the censorship resistance that much, and I agree,
+[38:49] very, very easily what country an IP address is in. So depending on the political leanings, I know Rion said we don't want to focus around the censorship resistance that much, and I agree,
 [39:07] but there's a couple of things that go into play. When you would publish a front end, if one of the reasons you want it to be decentralized is for censorship resistance,
 [39:18] it may be important to you to select particular IP addresses that you want to try to publish to on the masternode network, because you know that IP address is in such and such a country
 [39:30] or such and such a state. - Or you even know the actual operator of that specific masternode personally, for example.
@@ -347,7 +347,7 @@ Rion notes they only scratched the surface of this complex topic. He thinks ther
 [65:56] happens, it can get posy banned. Well, people aren't going to read all that. But we can have a very simple, these are the constraints that we've decided on for this version of this. And
 [66:09] of course, there's nothing that would prevent master nodes from running similar services. I mean, people within the Dash community could fork what we created, tweak the parameters, tweak the
 [66:18] levers on it, and then publish another version that's perhaps more successful than the choices that we made or whatever. Well, if this sounds like something that you would like to see the
-[66:30] incubator pursue and/or if you would like to get involved with it yourself, should it become an actual concept, you have Ryan and/or AJ's contact information in the description section below,
+[66:30] incubator pursue and/or if you would like to get involved with it yourself, should it become an actual concept, you have Rion and/or AJ's contact information in the description section below,
 [66:42] and we'll say goodbye now. Yeah. One last thing. Sorry. I know we're closing up. I'm going to drop a link here to a video. I posted it in the public comments. So hopefully that shows up and then
 [66:58] maybe we can put it in the video description as well. This is the fourth part of a blockchain debate series that AJ and I had with several other people, maybe a year or two ago. And this fourth
 [67:14] part we talk about the technical, we go into more technical details about how the internet is structured and what kind of pain points, or not pain points, but what kind of censorship points

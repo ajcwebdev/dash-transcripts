@@ -184,8 +184,8 @@ The hosts discuss the current state of Dash Platform, the decreasing frequency a
 [34:14] And Halaway wanted to confirm that... Yeah, I remember the name. It is Komodo.
 [34:24] Okay. And Halaway wants to confirm the local money doesn't need any platform functionality, right? So it can just...
 [34:35] It's not sticked yet, but we can use some platform feature later. So this platform is not in my net yet, so I can't really rely on that right now in such project.
-[34:51] Okay. So yeah, I also done something on the Ryan's side, on the Ryan's budget. So Ryan runs some...
-[35:06] Ryan have concept on the Dash platform contributions. And I also done something on that side. That's something that is not under my budget,
+[34:51] Okay. So yeah, I also done something on the Rion's side, on the Rion's budget. So Rion runs some...
+[35:06] Rion have concept on the Dash platform contributions. And I also done something on that side. That's something that is not under my budget,
 [35:18] but I also done something on the DashMate side. There was some really good things, some important things, which is config migrations allowed us to stabilize DashMate builds when we
 [35:32] release new versions. Basically, it checks how the config looks like if we have some misunderstanding between the actual config and what we expect. We also disabled automatic config rewrites,
 [35:49] which was unnecessary in many cases. So we just don't rewrite anymore. I've added a core click command that allow you to fire up Dash CLI commands straight into the DashMate. So you don't
@@ -224,7 +224,7 @@ The hosts discuss the current state of Dash Platform, the decreasing frequency a
 [43:52] So back to here now. Dash economics R&D. This was something that I was working on. I know that it was a controversial project. I didn't spend much money on this. This was
 [44:06] mostly just data gathering and doing some research on our economics. 36 dash over the whole quarter. Any pay assistance. Mikhail talked about that, and merchant loyalty credit system was the,
 [44:23] this is the 1.2 dash that's just standard. If a concept is accepted, they get one dash for creating the concept, and then there's the strategist commission as well. So that's what
-[44:36] that is. That's what we did the past quarter. Again, the vast majority of this was the wallet, the incubator wallet that we will. And Ryan, are you still looking for testers on that? Or how,
+[44:36] that is. That's what we did the past quarter. Again, the vast majority of this was the wallet, the incubator wallet that we will. And Rion, are you still looking for testers on that? Or how,
 [44:48] is there anything people can do to help move that forward? Not yet. I'm the primary tester on that. Probably be, we will be wanting testers for this next quarter for sure.
 [45:02] And again, two weeks from now, we will give an update on where we're at with that project. So I don't know if Mikhail wants to say anything about these numbers at all, but he's talked about
 [45:18] all of these in his presentation. And here you have the numbers in case you're, you're curious where, where your dash is going. And then I just wanted to briefly show Ash. He's still an active
@@ -242,7 +242,7 @@ The hosts discuss the current state of Dash Platform, the decreasing frequency a
 [48:04] of working in the incubator. It's, if you are a builder, if you're one of the developers and your strategist, your project manager runs out of funds or doesn't feel like that's, that fits
 [48:16] with his strategy, then you have alternatives. You can pitch your idea to one of the other strategists. And, you know, apparently that was effective for Mikhail. And I hope that,
 [48:27] you know, I hope all these projects are successful, obviously, but it just wasn't a priority for me or Ash. So that's, I just wanted to highlight that as kind of an example of how things work
-[48:37] in the incubator. - We had a question come in a moment ago, Ryan, if we could get to that one before you continue, I don't know where the question has gone, but it was something like,
+[48:37] in the incubator. - We had a question come in a moment ago, Rion, if we could get to that one before you continue, I don't know where the question has gone, but it was something like,
 [48:46] you'd previously noted your intention to do lots of platform testing last quarter. How did that unfold? - Yeah. So that is this dash platforms contributions. And I opted personally,
 [49:00] I was going to have AJ do some significant testing on this. I didn't find in the end that it was stable enough to justify AJ's cost. So AJ is a, he's an expert. He's a senior engineer.
 [49:16] He's very expensive. And with the stability of platform, I did not think that that was a good call to have him work on that this quarter. I am now, I guess I'll jump, that's a good springboard
@@ -300,7 +300,7 @@ The hosts discuss the current state of Dash Platform, the decreasing frequency a
 [62:03] developer, which I think that we should be catering to. We shouldn't be catering to experts. We should be catering to the average developer. So that's what I'm going to be doing that. I'm
 [62:13] also going to have Jojo bite and AJ helped me with that. If I run into problems like technical problems, I'm going to have them go through the same thing, but I'm going to spare their time
 [62:24] as much as I can because they're more expensive than me as they should be. They're experts. In terms of other projects that I want to focus on this quarter, I'm going to hand off Electrum
-[62:35] Dash to Mikael. I will not be doing any Dash economics R&D. I'm going to be focusing mostly like almost exclusively on platform stuff and our web wallet. AnyPay, that's now Mikael's project
+[62:35] Dash to Mikhail. I will not be doing any Dash economics R&D. I'm going to be focusing mostly like almost exclusively on platform stuff and our web wallet. AnyPay, that's now Mikhail's project
 [62:54] again. And then this Merchant Loyalty Credit System, that's one up and coming potential idea that we could leverage Dash platform on again. So again, Dash platform stuff. It's a new concept.
 [63:08] If anybody hasn't seen it, please go and check out the... Are you still sharing my screen? Uh-huh. Yep. That's the one.
 [63:15] Check out this Merchant Loyalty Credits Incubator Weekly Show. I would like to get to this hosting front ends on Dash Masternode Network at some point. I don't think that that's going to be
@@ -337,5 +337,5 @@ The hosts discuss the current state of Dash Platform, the decreasing frequency a
 [70:23] Yes, yes. Less and less bugs. We should have pretty good progress. What we had the last few years is, first, the platform team was adding some features and also
 [70:41] migrating from the JavaScript to Rust, which was done. And a lot of features, a lot of basic features like withdrawals, transfers, all of this was done. So what we have now is just get rid of
 [70:55] these issues and bugs that we can see. So there should be definitely less and less of them. It's good to hear.
-[71:04] Okay. Well, thanks for joining us today, everyone. We look forward to seeing you next week at the same time. Merry Christmas again to you, Mikael. And take care, everyone.
+[71:04] Okay. Well, thanks for joining us today, everyone. We look forward to seeing you next week at the same time. Merry Christmas again to you, Mikhail. And take care, everyone.
 [71:16] See you. Bye-bye.

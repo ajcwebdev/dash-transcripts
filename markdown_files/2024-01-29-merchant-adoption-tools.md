@@ -75,7 +75,7 @@ Eric emphasizes that better point-of-sale interfaces and fiat off-ramp solutions
 [07:35] with some of my products. Well, that's neat.
 [07:39] Very interesting. So we are speaking to you today because the topic is merchant adoption of crypto payments,
 [07:48] or perhaps lack thereof. Not sure the angle today's show is going to take. But you are perfectly suited to speak about this, not only because you're obviously a career e-commerce
-[07:59] seller, but you have been in the crypto space as a fan and holder of both Dash and Doge for a long time. So Ryan, would you give us a sort of introduction of what you'd like
+[07:59] seller, but you have been in the crypto space as a fan and holder of both Dash and Doge for a long time. So Rion, would you give us a sort of introduction of what you'd like
 [08:13] to talk about with Eric today? Yes, I'm at the same time pulling up my screen to share. And yeah, you and I talked about
 [08:31] a week ago, Amanda, and this was inspired by an experience that I had with a potential somebody who might be interested in, and I don't know how many, let me see if you're
 [08:49] sharing my screen. I'm not actually ready to share the screen yet because I just have some preamble, I guess. First, I have two little stories. The first story is that when
@@ -216,7 +216,7 @@ Eric emphasizes that better point-of-sale interfaces and fiat off-ramp solutions
 [37:12] there's commerce happening on it, uh, to move coins between exchanges and, and, uh, to service the speculation on Bitcoin itself. You have to move Bitcoin for that to work. Um, but
 [37:25] aside from speculation, no, I, I don't believe there's any real commerce on it. Um, Well, this is one of the longer lasting cases of speculation I could ever have imagined.
 [37:37] Right. Because the whole, the whole thing of, uh, speculation is eventually there will be a bubble and it pops and a lot of people go boohoo if they didn't get out before it
-[37:47] popped and thus is the end of that. But if this is just speculation, it's been going on for more than a decade, like nonstop. Right. I mean, what are your thoughts on this, Ryan?
+[37:47] popped and thus is the end of that. But if this is just speculation, it's been going on for more than a decade, like nonstop. Right. I mean, what are your thoughts on this, Rion?
 [38:00] And, and we don't need to stay on this for too long, but I'm just saying like, it's not that there's no commerce happening there. It's just not in game pieces. It's not in
 [38:10] board game pieces. So that market is yet to be addressed. Well, um, like you said, we've been doing this for 15 years and you know, part of me
 [38:20] wants to say, well, 15 years just isn't enough. Um, but part of me also recognizes that we just, we've got very little traction after 15 years. And I think there's a lot of things
