@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/Z7knNJ8SIBw/maxresdefault.webp"
 
 Mikhail and Rion from Dash Incubator discuss progress on various projects including Platform Explorer, Electrum Dash, and Local Money, as well as plans for Dash Platform contributions.
 
+## Episode Summary
+
 tl;dr: Mikhail shared updates on his work on the Platform Explorer, Electrum Dash, and other projects in Q4 2023. Rion provided a financial summary of Incubator spending and outlined his plans to focus heavily on Dash Platform contributions and testing in Q1 2024. Both strategists expressed optimism about the state of Dash Platform and the decreasing frequency and severity of bugs, while acknowledging the importance of continued testing and stabilization efforts.
+
+## Chapters
 
 00:00 - Intro and Discussion on Fear as a Motivator
 The episode begins with a discussion on the role of fear as a motivator, drawing from pop culture and philosophical references. The hosts emphasize the importance of awareness and action over paralysis.
@@ -38,7 +42,7 @@ Rion mentions potential projects, such as the Merchant Loyalty Credit System and
 68:09 - Discussion on Platform Stability and Bug Fixes
 The hosts discuss the current state of Dash Platform, the decreasing frequency and severity of bugs, and the importance of continued stabilization efforts to deliver a reliable product.
 
----
+## Transcript
 
 [00:00] [music] "Fear is the mind killer." It's a phrase you've likely heard before.
 [00:09] If you're a metal fan, you'll recognize it as the name of Fear Factory's remix album. But likely the source of this phrase for most is Frank Herbert's epic novel,

@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/7rGicCRg_Wg/maxresdefault.webp"
 
 The transcript discusses implementing a self-service merchant loyalty credit system on the Dash network.
 
+## Episode Summary
+
 tl;dr: This episode explores the concept of enabling merchants to issue their own loyalty credits or gift cards denominated in fiat currency, utilizing the Dash network infrastructure. This system would allow merchants to create and sell credits to customers without needing intermediaries. The credits would be backed by the merchant's goods, services, and reputation. The discussion covers the potential benefits for merchants, the technical aspects of implementation, and how it could drive real-world adoption of Dash.
+
+## Chapters
 
 00:00 - Introduction and Background Information
 The episode begins with information about the decline in cash usage in Australia and the RBA's efforts to develop a CBDC.
@@ -32,7 +36,7 @@ The technical aspects of implementing the system on the Dash network are discuss
 58:50 - Importance of User Experience and Final Thoughts
 The importance of a user-friendly experience for merchants and customers is emphasized. The episode concludes with final thoughts on the potential of the project and a call for interested contributors to get involved.
 
----
+## Transcript
 
 [00:00] "The number of consumer transactions done in cash has plummeted down from 70% in 2016 to 13% last year."
 [00:33] Further cash accounted for just 6% of value transacted in 2022. In the last 5 years, the number of ATMs in Australia has decreased from 14,000 to 6,000.

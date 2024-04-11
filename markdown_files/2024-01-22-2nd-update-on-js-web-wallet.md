@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/TTlk_HxfCoY/maxresdefault.webp"
 
 A web wallet for Dash digital cash is being developed with a focus on speed, security, and simplicity.
 
+## Episode Summary
+
 tl;dr: Jojobyte and Rion demonstrate a web wallet being developed for Dash in the Dash Incubator. The wallet uses client-side encryption for security and loads in under 0.3 seconds. Near-term plans include integrating features like Crowdnode masternode pooling, gift card purchases, and the Maya savings app. The wallet aims to make Dash more accessible as digital cash, especially compared to a larger competing web wallet.
+
+## Chapters
 
 00:00 - Introduction and Background on Bitcoin ETF Approval
 The episode begins with a satirical intro about the SEC approving a spot Bitcoin ETF, framed as underwhelming compared to protocol improvements that could make Bitcoin better electronic cash.
@@ -23,7 +27,7 @@ Rion and Jojo discuss the benefits of a web wallet, including censorship-resista
 39:45 - Security Considerations and Comparison to Other Web Wallet
 Amanda asks about adding multi-sig support for security. Rion suggests it's not an immediate priority as the wallet is not intended for large balances. The wallet is compared to another Dash web wallet, with this one loading much faster.
 
----
+## Transcript
 
 [00:00] [MUSIC] The most historically significant thing that's ever happened to Bitcoin just happened.
 [00:10] What, privacy at the protocol level and an increase in block size to end congestion, drastically lower transaction fees, and become peer-to-peer electronic cash?

@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/0Q85lg5wpdE/maxresdefault.webp"
 
 Rion and Amanda discuss the importance of decentralized exchanges (DEXs) for Dash, focusing on the Maya DEX.
 
+## Episode Summary
+
 tl;dr: Rion emphasizes the significance of DEXs like Maya for Dash, as they provide verifiable price signals and could positively impact Dash's market capitalization. The Dash Incubator is considering running a Maya validator node, which community members could bond to, and integrating Maya into the Incubator's web wallet for a user-friendly experience.
+
+## Chapters
 
 00:00 - Introduction and Motivation for Focusing on DEXs
 Rion explains his motivation for focusing on DEXs, particularly Maya, and their importance for the Dash ecosystem.
@@ -29,7 +33,7 @@ Rion suggests that the Dash Incubator could run a Maya validator node, with comm
 44:07 - Integrating Maya into the Dash Incubator's Web Wallet
 The Dash Incubator plans to integrate Maya into their web wallet, providing a user-friendly experience for Dash users looking to use the DEX.
 
----
+## Transcript
 
 [00:00] [Intro Music] In 1997, the Project for the New American Century was founded by a small group of neocons.
 [00:12] A few years later, they published "Rebuilding America's Defenses." In the intro, they wrote, "At present, the United States faces no global rival.

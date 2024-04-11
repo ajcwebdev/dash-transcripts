@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/ber5BB1xJbk/maxresdefault.webp"
 
 Rodrigo from 88i discusses how his company provides nano insurance policies in Brazil and plans to expand globally.
 
+## Episode Summary
+
 tl;dr: Rodrigo, CEO of 88i, explains how his company offers nano insurance policies in Brazil through partnerships with apps like Uber. 88i aims to provide affordable, real-time insurance to over a billion people globally by leveraging blockchain technology to automate claims payouts and expand beyond the limitations of traditional regulated insurance markets.
+
+## Chapters
 
 00:00 - Introduction and overview of 88i's mission
 Rodrigo introduces 88i's purpose of protecting over a billion people globally through nano insurance policies.
@@ -26,7 +30,7 @@ Rodrigo describes Brazil's PIX instant payment system and how it's paving the wa
 54:45 - Potential future applications of micro insurance  
 Rodrigo explores how the 88i insurance model could expand to cover things like yield farming and crypto investments.
 
----
+## Transcript
 
 [00:00] Crypto is a game changer. Crypto empowers the little guy.
 [00:09] What do you think about these statements? Are they both correct?

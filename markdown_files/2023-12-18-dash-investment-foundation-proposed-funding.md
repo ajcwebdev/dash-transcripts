@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/GbTvR9ijA4Q/maxresdefault.webp"
 
 The Dash Investment Foundation seeks funding to continue incubating startups that add value to the Dash ecosystem.
 
+## Episode Summary
+
 tl;dr: Sven Rosbach, a volunteer supervisor for the Dash Investment Foundation (DIF), discusses the DIF's latest funding proposal. The DIF aims to identify and invest in companies that build products benefiting the Dash ecosystem. Despite challenges, the DIF's portfolio is estimated to have increased 8x in value since initial funding. The proposal requests 600 Dash per month for 3 months to enable future investments, with plans to hold most funds in Dash until viable opportunities arise. Sven and others argue continued DIF funding is a worthwhile long-term play to grow Dash.
+
+## Chapters
 
 00:00 - Introduction and Background on Elizabeth Warren's Stance on Crypto 
 Amanda introduces the episode by discussing US Senator Elizabeth Warren's efforts to vilify and curtail cryptocurrency through proposed legislation.
@@ -41,7 +45,7 @@ Sven confirms that Dash founder Ryan Taylor serves as an advisor to the DIF, pro
 59:47 - Closing Thoughts on the Merits of the DIF Proposal
 Amanda and Rion share their views that the DIF's funding proposal is a worthwhile long-term investment in the Dash ecosystem despite past imperfections.
 
----
+## Transcript
 
 [00:00] [Music] In 399 BC, the Greek philosopher Socrates was on trial, accused of impiety, of not showing
 [00:11] proper respect to the Greek gods. Socrates argued in his own defense, saying that his quest for truth was all-encompassing. He concluded in today's vernacular by stating,

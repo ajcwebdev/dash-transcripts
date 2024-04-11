@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/kIrLshqpSng/maxresdefault.webp"
 
 Dash enthusiast and merchant Eric discusses the challenges of accepting cryptocurrency payments through e-commerce platforms like Shopify.
 
+## Episode Summary
+
 tl;dr: Eric, a dedicated cryptocurrency enthusiast and online merchant, shares his experience trying to accept crypto payments on his Shopify store. He highlights the lack of easy-to-use, low-fee options for merchants, especially in the US. The discussion explores potential solutions, including partnering with other payment coins to create better crypto payment processors, and how Dash could leverage its platform to provide attractive merchant services.
+
+## Chapters
 
 00:00 - Introduction and background on Eric's business
 Eric runs an online store selling board game pieces and accessories. He uses Shopify for his website and inventory management.
@@ -29,7 +33,7 @@ The participants debate whether Dash should aim to create brand new merchant too
 65:01 - The crucial need for usable, low-friction point-of-sale systems
 Eric emphasizes that better point-of-sale interfaces and fiat off-ramp solutions are key to achieving widespread merchant adoption, as current options are severely lacking.
 
----
+## Transcript
 
 [00:00] Why we build. That's the title of this segment. Three words, three syllables that communicate so much. Why speaks to the motivation. Ideally, it will involve mindfulness, intent. We speaks
 [00:18] to us, our community, our collaborative efforts. Build speaks to the action. It connotes constructing. It is positive. Through this segment, we aim to make clear our rationale and showcase our

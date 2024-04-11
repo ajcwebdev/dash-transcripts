@@ -1,6 +1,19 @@
+---
+showLink: "https://www.youtube.com/watch?v=9jeMJNZ9vm0"
+slug: "quarterly-report-q1-24-incubator-weekly"
+title: "Quarterly Report Q1 ‘24 | Incubator WEEKLY"
+publishDate: "2024-04-08"
+playlist: "Incubator WEEKLY"
+coverImage: "https://i.ytimg.com/vi/9jeMJNZ9vm0/maxresdefault.jpg"
+---
+
 Ash, Mikhail, Rion, and Anthony join the show to discuss the new Dash Incubator Quarterly Report covering the first quarter of 2024.
 
+## Episode Summary
+
 tl;dr: In this episode, the Dash Incubator team reviews their progress in Q1, including work on a web wallet, Dash Platform contributions, payment/merchant tools, and web framework integrations. They discuss strategies for Q2, focusing on courting web2 developers, attending conferences, improving Dash libraries and SDKs, and continuing work on key projects like DashPay and Dash Platform. Challenges and opportunities around developer outreach and improving Dash's reputation in the web3 space are also examined.
+
+## Chapters
 
 00:00 - Introductions and Dash Platform Testnet Update
 The episode starts with an update on the latest Dash Platform testnet release, which is ready for testing and aimed at onboarding new developers.
@@ -17,7 +30,7 @@ Ash and Mikhail provide updates on their Q1 progress and shares their plans and 
 62:19 - Q2 Budget Planning and Closing Thoughts
 The host walks through the team's budget planning spreadsheet for Q2, explaining how funding requests, spending projections, and strategist rewards are calculated. The team shares closing thoughts, emphasizing their excitement for the quarter ahead and key priorities like the upcoming DashPay launch.
 
----
+## Transcript
 
 [00:00] I'm just going to join with a second PC that's going to share my screen. Okay. Yeah. Sounds good. I think we're live guys. Um,
 [00:08] welcome everybody to the, this, this month's, uh, this quarter's, um, report and outlook report for Q1

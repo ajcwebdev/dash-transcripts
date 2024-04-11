@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/hTublYO0Gso/maxresdefault.webp"
 
 Mikhail discusses plans to build a decentralized peer-to-peer fiat to crypto exchange on the Dash network.
 
+## Episode Summary
+
 tl;dr: Mikhail, a strategist from the Dash Incubator, discusses plans to build a decentralized peer-to-peer fiat to crypto exchange called LocalMoney on the Dash network. The exchange would allow users to trade fiat for Dash and other cryptocurrencies without relying on centralized exchanges. Key features include a trustless escrow system using multi-signature transactions, censorship resistance, and cross-chain atomic swaps. Challenges and potential solutions around decentralized infrastructure and user adoption are discussed.
+
+## Chapters
 
 00:00 - Introduction and Background on Centralized Cloud Storage 
 The episode begins with a discussion on the proliferation of digital information, centralized cloud storage providers like Amazon, Google and Microsoft, and the censorship and surveillance concerns around centralization.
@@ -32,7 +36,7 @@ LocalMoney is compared and contrasted with projects like BISQ and Local Bitcoin 
 38:15 - Importance of Escrow and Mikhail's Personal Commitment
 The importance of a solid escrow system to the minimum viable product is highlighted. Mikhail expresses his personal commitment to using LocalMoney himself, especially for Ruble trading pairs, and openness to community feedback.
 
----
+## Transcript
 
 [00:00] We live in the information age, kicked off by the invention of the transistor in the mid 20th century, digital technology has since proliferated and radically altered the way
 [00:15] almost everyone worldwide lives, works and plays. Online, no matter what it is, what type of content, information is stored and manipulated as binary code, ones and zeros.

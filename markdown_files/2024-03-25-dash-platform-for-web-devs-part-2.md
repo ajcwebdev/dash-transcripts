@@ -11,24 +11,27 @@ In this episode, Anthony introduces a tutorial for web developers to get started
 
 Anthony walks through a tutorial he created to help web developers get started with building applications on Dash Platform using the Dash JavaScript SDK. The discussion also covers the process of automating the generation of podcast show notes using OpenAI's Whisper speech recognition model and ChatGPT for summarization. They explore the benefits and potential monetization of this workflow.
 
-Chapters:
-00:00 - 04:57 - Intro and discussion of using Spritz for paying with Dash
+## Chapters
+
+00:00 - Intro and discussion of using Spritz for paying with Dash
 Rion discusses his experience using the Spritz card to pay for services like StreamYard with Dash.
 
-04:58 - 17:29 - Automating podcast show notes with AI  
+04:58 - Automating podcast show notes with AI  
 Anthony explains his process for automatically generating podcast show notes using OpenAI's Whisper and ChatGPT.
 
-17:30 - 21:41 - Comparing options for automating show notes as a service
+17:30 - Comparing options for automating show notes as a service
 Rion and Anthony discuss the possibilities and tradeoffs of offering automated podcast show notes as a paid service.
 
-21:42 - 29:53 - Introducing a Dash Platform tutorial for web developers
+21:42 - Introducing a Dash Platform tutorial for web developers
 Anthony introduces a tutorial he created to help web developers get started with Dash Platform using the JavaScript SDK.
 
-29:54 - 37:01 - Walking through the tutorial steps  
+29:54 - Walking through the tutorial steps  
 Anthony walks through the initial steps of the tutorial, including setting up the environment and creating a wallet.
 
-37:02 - 42:05 - Wrapping up and discussing future episodes
+37:02 - Wrapping up and discussing future episodes
 They wrap up the episode, recapping what was covered and discussing plans for future episodes on IPFS and Dash Platform.
+
+## Transcript
 
 [00:00] All right, we're live. Hello. Hello, everyone. Welcome to the incubator weekly show. Again, we
 [00:12] are jumping straight in this week, like we did last week. And yeah, first thing I wanted to mention is last week, we

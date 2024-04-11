@@ -38,43 +38,39 @@ coverImage: "https://i.ytimg.com/vi_webp/7o_2kDnrKEg/maxresdefault.webp"
 
 In this episode of Incubator Weekly, we're joined by Walker Ford to discuss decentralized applications and IPFS.
 
+## Episode Summary
+
 tl;dr: Decentralized applications (dApps) are complex, requiring various components to be decentralized. dApps aim to be verifiable, not tied to a single host, and interact with blockchain for data storage. They comprise decentralized components like hosting, domain names, code, and storage. IPFS is a distributed file storage system using content-based addressing. Challenges include discovery, ensuring data availability, and integrating with browsers. The goal is to provide users with the ability to verify content, especially when dealing with blockchain transactions, but there are still hurdles to overcome.
 
 ## Chapters
 
-00:00 - Introduction: Background and Experience of Guests with IPFS and Decentralized Applications (dApps)
+## Chapters
 
+00:00 - Background and Experience of Guests with IPFS and Decentralized Applications (dApps)
 The episode begins with an introduction to the topic of decentralized applications (dApps) and what it means for an application to be truly decentralized. The guests, Walker and Anthony, share their background and experience working with IPFS and decentralized applications in the blockchain space.
 
 06:20 - Defining Decentralized Applications and Their Characteristics
-
 Walker and Anthony provide their perspectives on what constitutes a decentralized application, including verifiability, resilience, and not being tied to a single host.
 
 11:49 - Traditional Web Hosting and Its Pros and Cons
-
 The discussion moves to traditional web hosting methods, such as servers and CDNs, and the advantages and disadvantages of these approaches.
 
 14:48 - Introducing IPFS's Role in Decentralized Storage and Its Relation to DNS
-
 IPFS (InterPlanetary File System) is introduced as a distributed file storage system that uses content-based addressing, and its potential role in decentralized applications is explored.
 
 27:00 - Dash Platform IPFS Integration and Past Efforts
-
 Rion shares some of the past work done in the Dash Incubator related to integrating IPFS with the Dash Platform, including a "Hello, World!" application.
 
 32:19 - Challenges and Solutions for Delivering IPFS Content to Users
-
 The guests discuss the challenges of delivering IPFS content to users, including the need for browser support, and various solutions like DNS link and gateways. Walker explains the newly created Trustless Gateway Specification and the problem it seeks to address.
 
 46:38 - Updates on IPFS Development and Helia Implementation
-
 The conversation touches on recent developments in IPFS, including the Helia JavaScript implementation and ongoing efforts to improve verification and browser integration.
 
 54:01 - Closing Thoughts on Decentralized Applications and Getting Started
-
 As the episode wraps up, the participants share their final thoughts on what constitutes a decentralized application and advice for those looking to get started with IPFS and dApp development.
 
----
+## Transcript
 
 [00:00] We're live. >> Cool. Welcome everyone.
 [00:05] Very excited to be joining this and hosting this call today. We're talking about, this could easily have been labeled.

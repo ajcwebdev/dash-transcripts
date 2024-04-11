@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/da3kd2MAXJo/maxresdefault.webp"
 
 Mikhail provides updates on recent development work on the Electrum Dash wallet, including PrivateSend mixing demo.
 
+## Episode Summary
+
 tl;dr: Mikhail discusses the recent updates and fixes made to the Electrum Dash wallet in January, such as upgrading the Dash P2P protocol, BLAS library, and Tor Proxy bundle. He demonstrates the now-working PrivateSend mixing feature and shares the wallet's new website designs. Mikhail also shows the monitoring dashboards for his Electrum server infrastructure. He outlines the remaining tasks, including marking InstantSend transactions, resolving log warnings, and pulling in the latest upstream Electrum changes.
+
+## Chapters
 
 00:00 - Introduction and Electrum Dash Overview
 Mikhail introduces himself and provides an overview of the Electrum Dash wallet, its features, and recent development work.
@@ -26,7 +30,7 @@ Mikhail showcases the dashboards he created to monitor metrics and usage for his
 31:47 - Remaining Development Tasks and Wrap-up
 The remaining tasks for Electrum Dash development are outlined, such as marking InstantSend transactions and resolving log warnings. Mikhail also mentions his search for additional development help.
 
----
+## Transcript
 
 [00:00] (upbeat music) In the last Why We Build segment,
 [00:12] we looked at the burgeoning data storage industry, specifically at centralized options.

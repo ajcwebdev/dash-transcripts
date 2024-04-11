@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/dzGRN8CNGXA/maxresdefault.webp"
 
 Rion and AJ discuss the potential for Dash masternodes to provide decentralized web hosting services.
 
+## Episode Summary
+
 tl;dr: In this episode, Rion and AJ explore the idea of Dash masternodes offering decentralized website hosting as a service to generate more demand for Dash and provide an alternative to centralized web hosts. They cover potential benefits like improved censorship resistance and convenience for users. Technical implementation details, incentive models, content moderation approaches and comparisons to Dash Platform/Evo are also discussed.
+
+## Chapters
 
 00:00 - Taoism and Its Relevance to Dash 
 Rion begins by discussing principles of Taoism and how they could apply to Dash's development.
@@ -32,7 +36,7 @@ AJ outlines different approaches to mitigating the hosting of malicious content,
 1:02:36 - Wrapping Up and Gauging Interest
 Rion notes they only scratched the surface of this complex topic. He thinks there is good potential and product-market fit, and asks for community feedback. The pair references a prior video with a more technical discussion.
 
----
+## Transcript
 
 [00:00] [Music] Can we use Taoism to bring ourselves and our network more balance and effectiveness?
 [00:09] It's worth considering. Let's start by getting on the same page. Taoism emerged in China about 2,500 years ago, and while it has some overlap with its contemporary

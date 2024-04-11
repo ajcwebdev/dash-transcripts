@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/niGN4q3DJVA/maxresdefault.webp"
 
 Alessandro, a physics student and cryptocurrency enthusiast, discusses his contributions to the Dash code base as a hobby developer.
 
+## Episode Summary
+
 tl;dr: Alessandro, a 23-year-old physics student and hobbyist developer, shares his experience working on various Dash Incubator projects, including BIP143 implementation for improved transaction verification performance, Masternode Multiparty Payouts, and theoretical ideas for Masternode Trustless Shares. Despite focusing on his final year university exams, Alessandro expresses interest in potentially pursuing full-time cryptocurrency development in the future, drawn to the practical application of advanced cryptography concepts.
+
+## Chapters
 
 00:00 - Introduction and Alessandro's background
 Pete and Amanda introduce the episode's guest, Alessandro, a young developer who has been contributing to the Dash code base as a hobby alongside his physics studies at university.
@@ -35,7 +39,7 @@ Alessandro discusses his primary interest in the technology and engineering aspe
 34:41 - Final thoughts and future plans
 Pete and Amanda express their appreciation for Alessandro's initiative in contributing to the Dash project and inquire about his plans for full-time crypto development after completing his studies.
 
----
+## Transcript
 
 [00:00] [music] Most of us have gained value from a pithy quote.
 [00:08] Whether it be inspiration, a thought-provoking perspective, or witty summation, quotes can encapsulate timeless wisdom.

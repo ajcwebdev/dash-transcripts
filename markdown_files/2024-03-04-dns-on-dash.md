@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/Rrrv51XmPcI/maxresdefault.webp"
 
 DNS, IPs, and hosting on Masternodes: Exploring the benefits and challenges of adding DNS support to the Dash platform.
 
+## Episode Summary
+
 tl;dr: This episode delves into the potential benefits and challenges of adding DNS support to the Dash platform, discussing how it could improve usability, decentralization, and censorship resistance for hosting websites on Masternodes. The hosts explore the technical aspects, the need for certificates, and the importance of meeting web developers' needs to ensure the platform's success.
+
+## Chapters
 
 00:00 - Introduction and Background
 The episode begins with a discussion on the importance of mindfulness and purposeful action in building projects, highlighting examples of individuals who have faced challenges for their efforts to empower others.
@@ -32,7 +36,7 @@ The hosts delve into the opportunity and potential benefits of hosting websites 
 52:30 - Questions for Dash Core Group Developers
 The episode concludes with the hosts posing questions for Dash Core Group developers regarding the removal of DNS support and the potential reasons behind it.
 
----
+## Transcript
 
 [00:00] Why We Build, that's the title of this segment. Three words, three syllables that communicate so much.
 [00:13] Why speaks to the motivation, ideally it will involve mindfulness, intent. We speaks to us, our community, our collaborative efforts.

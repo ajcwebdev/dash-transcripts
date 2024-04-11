@@ -9,7 +9,11 @@ coverImage: "https://i.ytimg.com/vi_webp/LRFAEl90aTU/maxresdefault.webp"
 
 Jan presents a technical demo of Purchase Credits, a decentralized payment infrastructure built on Dash.
 
+## Episode Summary
+
 tl;dr: Jan demonstrates a proof-of-concept application called CreditPal that enables merchants to issue digital credits to customers in exchange for fiat currency. These credits are stored on the Dash blockchain and can be redeemed for goods and services from the issuing merchant, similar to gift cards but with additional benefits like change back and no double-spending. The system allows for decentralized, peer-to-peer payments without needing centralized payment processors.
+
+## Chapters
 
 00:00 - Introduction and Overview of Purchase Credits
 Jan introduces the concept of Purchase Credits (formerly called Merchant Credits) and explains how it differs from traditional gift cards, acting as a decentralized payment infrastructure.
@@ -29,7 +33,7 @@ The hosts brainstorm potential applications of this technology, such as proving 
 40:11 - Roadmap and Next Steps  
 Jan discusses the development roadmap, including plans to utilize Dash Platform for metadata storage and the need for further research into platform capabilities. The hosts also touch on Jan's background in geo-informatics.
 
----
+## Transcript
 
 [00:00] Recently, DASH Incubator Lead Strategist Rion Gull was a guest on DAO Watch Fireside with Cryptosi. Near the end of the chat, Cryptosi asked a pretty poignant question.
 [00:12] Yeah. What kind of things do you think other DAOs could learn from what's happened with DASH? What sorts of things would you say are, I guess, good practices that DASH has done
