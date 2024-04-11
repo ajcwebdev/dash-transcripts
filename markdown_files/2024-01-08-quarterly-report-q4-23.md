@@ -7,9 +7,9 @@ playlist: "Incubator Weekly"
 coverImage: "https://i.ytimg.com/vi_webp/Z7knNJ8SIBw/maxresdefault.webp"
 ---
 
-Mikhail and Ryan from Dash Incubator discuss progress on various projects including Platform Explorer, Electrum Dash, and Local Money, as well as plans for Dash Platform contributions.
+Mikhail and Rion from Dash Incubator discuss progress on various projects including Platform Explorer, Electrum Dash, and Local Money, as well as plans for Dash Platform contributions.
 
-tl;dr: Mikhail shared updates on his work on the Platform Explorer, Electrum Dash, and other projects in Q4 2023. Ryan provided a financial summary of Incubator spending and outlined his plans to focus heavily on Dash Platform contributions and testing in Q1 2024. Both strategists expressed optimism about the state of Dash Platform and the decreasing frequency and severity of bugs, while acknowledging the importance of continued testing and stabilization efforts.
+tl;dr: Mikhail shared updates on his work on the Platform Explorer, Electrum Dash, and other projects in Q4 2023. Rion provided a financial summary of Incubator spending and outlined his plans to focus heavily on Dash Platform contributions and testing in Q1 2024. Both strategists expressed optimism about the state of Dash Platform and the decreasing frequency and severity of bugs, while acknowledging the importance of continued testing and stabilization efforts.
 
 00:00 - Intro and Discussion on Fear as a Motivator
 The episode begins with a discussion on the role of fear as a motivator, drawing from pop culture and philosophical references. The hosts emphasize the importance of awareness and action over paralysis.
@@ -26,14 +26,14 @@ Mikhail touches on his work deploying an AnyPay backend API and Vijay's contribu
 27:43 - Mikhail's Quarterly Report: Local Money Project
 Mikhail introduces the Local Money project, a decentralized, peer-to-peer exchange application for KYC-less trading of Dash and other coins, with plans for further development in 2024.
 
-38:06 - Ryan's Financial Summary and Project Updates
-Ryan provides a detailed breakdown of Incubator spending in Q4 2023, highlighting the focus on the JavaScript web wallet and Dash Platform contributions. He also discusses the status of various projects under the Incubator umbrella.
+38:06 - Rion's Financial Summary and Project Updates
+Rion provides a detailed breakdown of Incubator spending in Q4 2023, highlighting the focus on the JavaScript web wallet and Dash Platform contributions. He also discusses the status of various projects under the Incubator umbrella.
 
 48:46 - Plans for Dash Platform Contributions and Testing
-Ryan outlines his intention to allocate significant resources to Dash Platform testing and contributions in the coming quarter, including hands-on development and documentation review.
+Rion outlines his intention to allocate significant resources to Dash Platform testing and contributions in the coming quarter, including hands-on development and documentation review.
 
 63:15 - Upcoming Projects and Collaborations
-Ryan mentions potential projects, such as the Merchant Loyalty Credit System and collaboration with 88i, an insurance company interested in leveraging Dash Platform.
+Rion mentions potential projects, such as the Merchant Loyalty Credit System and collaboration with 88i, an insurance company interested in leveraging Dash Platform.
 
 68:09 - Discussion on Platform Stability and Bug Fixes
 The hosts discuss the current state of Dash Platform, the decreasing frequency and severity of bugs, and the importance of continued stabilization efforts to deliver a reliable product.

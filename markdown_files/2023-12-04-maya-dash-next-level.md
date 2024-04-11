@@ -7,24 +7,24 @@ playlist: "Incubator Weekly"
 coverImage: "https://i.ytimg.com/vi_webp/0Q85lg5wpdE/maxresdefault.webp"
 ---
 
-Ryan and Amanda discuss the importance of decentralized exchanges (DEXs) for Dash, focusing on the Maya DEX.
+Rion and Amanda discuss the importance of decentralized exchanges (DEXs) for Dash, focusing on the Maya DEX.
 
-tl;dr: Ryan emphasizes the significance of DEXs like Maya for Dash, as they provide verifiable price signals and could positively impact Dash's market capitalization. The Dash Incubator is considering running a Maya validator node, which community members could bond to, and integrating Maya into the Incubator's web wallet for a user-friendly experience.
+tl;dr: Rion emphasizes the significance of DEXs like Maya for Dash, as they provide verifiable price signals and could positively impact Dash's market capitalization. The Dash Incubator is considering running a Maya validator node, which community members could bond to, and integrating Maya into the Incubator's web wallet for a user-friendly experience.
 
 00:00 - Introduction and Motivation for Focusing on DEXs
-Ryan explains his motivation for focusing on DEXs, particularly Maya, and their importance for the Dash ecosystem.
+Rion explains his motivation for focusing on DEXs, particularly Maya, and their importance for the Dash ecosystem.
 
 04:58 - Discussing the Basics of Maya and Liquidity Pools
-Amanda and Ryan discuss the basics of Maya, including liquidity pools, APRs, and how users can provide liquidity.
+Amanda and Rion discuss the basics of Maya, including liquidity pools, APRs, and how users can provide liquidity.
 
 22:57 - The Importance of DEXs for Dash's Market Capitalization
-Ryan emphasizes the significance of DEXs in determining the price of Dash and its impact on the project's perceived value and market capitalization.
+Rion emphasizes the significance of DEXs in determining the price of Dash and its impact on the project's perceived value and market capitalization.
 
 33:23 - Current State of Maya and Validator Nodes
 The discussion shifts to the current state of Maya, the number of validator nodes, and how the Dash community could get involved.
 
 41:03 - Potential for Dash Incubator to Run a Maya Validator Node
-Ryan suggests that the Dash Incubator could run a Maya validator node, with community members bonding their liquidity to the node.
+Rion suggests that the Dash Incubator could run a Maya validator node, with community members bonding their liquidity to the node.
 
 44:07 - Integrating Maya into the Dash Incubator's Web Wallet
 The Dash Incubator plans to integrate Maya into their web wallet, providing a user-friendly experience for Dash users looking to use the DEX.

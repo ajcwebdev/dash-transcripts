@@ -9,19 +9,19 @@ coverImage: "https://i.ytimg.com/vi_webp/TTlk_HxfCoY/maxresdefault.webp"
 
 A web wallet for Dash digital cash is being developed with a focus on speed, security, and simplicity.
 
-tl;dr: Jojo Bite and Ryan Taylor demonstrate a web wallet being developed for Dash in the Dash Incubator. The wallet uses client-side encryption for security and loads in under 0.3 seconds. Near-term plans include integrating features like Crowdnode masternode pooling, gift card purchases, and the Maya savings app. The wallet aims to make Dash more accessible as digital cash, especially compared to a larger competing web wallet.
+tl;dr: Jojobyte and Rion demonstrate a web wallet being developed for Dash in the Dash Incubator. The wallet uses client-side encryption for security and loads in under 0.3 seconds. Near-term plans include integrating features like Crowdnode masternode pooling, gift card purchases, and the Maya savings app. The wallet aims to make Dash more accessible as digital cash, especially compared to a larger competing web wallet.
 
 00:00 - Introduction and Background on Bitcoin ETF Approval
 The episode begins with a satirical intro about the SEC approving a spot Bitcoin ETF, framed as underwhelming compared to protocol improvements that could make Bitcoin better electronic cash.
 
 05:11 - Demo of Dash Web Wallet in Development 
-Jojo Bite shares his screen to demonstrate a web wallet for Dash being built in the Dash Incubator. Key features shown include generating a new wallet, pairing wallets to send funds, backup and restore functionality, and client-side encryption.
+Jojobyte shares his screen to demonstrate a web wallet for Dash being built in the Dash Incubator. Key features shown include generating a new wallet, pairing wallets to send funds, backup and restore functionality, and client-side encryption.
 
 22:19 - Discussion on Benefits of a Web Wallet
-Ryan and Jojo discuss the benefits of a web wallet, including censorship-resistance, accessibility without app store approval, and ease of integrating new features. Near-term priorities include Crowdnode pooling, gift card purchases, and Maya app integration.
+Rion and Jojo discuss the benefits of a web wallet, including censorship-resistance, accessibility without app store approval, and ease of integrating new features. Near-term priorities include Crowdnode pooling, gift card purchases, and Maya app integration.
 
 39:45 - Security Considerations and Comparison to Other Web Wallet
-Amanda asks about adding multi-sig support for security. Ryan suggests it's not an immediate priority as the wallet is not intended for large balances. The wallet is compared to another Dash web wallet, with this one loading much faster.
+Amanda asks about adding multi-sig support for security. Rion suggests it's not an immediate priority as the wallet is not intended for large balances. The wallet is compared to another Dash web wallet, with this one loading much faster.
 
 ---
 

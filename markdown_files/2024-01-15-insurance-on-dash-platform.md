@@ -18,7 +18,7 @@ Rodrigo introduces 88i's purpose of protecting over a billion people globally th
 Rodrigo explains how 88i provides real-time insurance policies to Uber drivers in Brazil, with plans to expand coverage.
 
 16:06 - Technical discussion on implementing 88i's insurance platform on blockchain
-Rodrigo and Ryan discuss the technical requirements for building 88i's global insurance platform on the Dash blockchain.
+Rodrigo and Rion discuss the technical requirements for building 88i's global insurance platform on the Dash blockchain.
 
 43:30 - Brazil's digital payment landscape and path towards a CBDC
 Rodrigo describes Brazil's PIX instant payment system and how it's paving the way for a central bank digital currency.

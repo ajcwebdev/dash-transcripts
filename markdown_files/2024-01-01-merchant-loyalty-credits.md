@@ -9,7 +9,7 @@ coverImage: "https://i.ytimg.com/vi_webp/7rGicCRg_Wg/maxresdefault.webp"
 
 The transcript discusses implementing a self-service merchant loyalty credit system on the Dash network.
 
-tl;dr: The transcript explores the concept of enabling merchants to issue their own loyalty credits or gift cards denominated in fiat currency, utilizing the Dash network infrastructure. This system would allow merchants to create and sell credits to customers without needing intermediaries. The credits would be backed by the merchant's goods, services, and reputation. The discussion covers the potential benefits for merchants, the technical aspects of implementation, and how it could drive real-world adoption of Dash.
+tl;dr: This episode explores the concept of enabling merchants to issue their own loyalty credits or gift cards denominated in fiat currency, utilizing the Dash network infrastructure. This system would allow merchants to create and sell credits to customers without needing intermediaries. The credits would be backed by the merchant's goods, services, and reputation. The discussion covers the potential benefits for merchants, the technical aspects of implementation, and how it could drive real-world adoption of Dash.
 
 00:00 - Introduction and Background Information
 The episode begins with information about the decline in cash usage in Australia and the RBA's efforts to develop a CBDC.

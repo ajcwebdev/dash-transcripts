@@ -27,19 +27,19 @@ Sven explains how the DIF acts as a middleman between the Dash treasury and comm
 Amanda and Sven discuss some of the DIF's past investments and the difficulties of operating without a traditional hierarchical structure.
 
 39:18 - Review of the DIF's Current Funding Proposal
-Ryan reviews the specifics of the DIF's 600 Dash per month / 3 month proposal and recommends everyone watch Sven's linked presentation.
+Rion reviews the specifics of the DIF's 600 Dash per month / 3 month proposal and recommends everyone watch Sven's linked presentation.
 
 47:02 - Security of the DIF's Dash Holdings  
 Sven addresses how the DIF securely stores its Dash holdings and the challenges of traditional banking as a crypto-focused organization.
 
 54:15 - DIF Portfolio Valuation and Performance
-Ryan shares slides showing the DIF's estimated 8x increase in portfolio value compared to initial funding. Sven adds context on the numbers.
+Rion shares slides showing the DIF's estimated 8x increase in portfolio value compared to initial funding. Sven adds context on the numbers.
 
 57:43 - Sven Discusses the DIF's Expert Advisors
 Sven confirms that Dash founder Ryan Taylor serves as an advisor to the DIF, providing counsel but not direction, for a symbolic $1 per year.
 
 59:47 - Closing Thoughts on the Merits of the DIF Proposal
-Amanda and Ryan share their views that the DIF's funding proposal is a worthwhile long-term investment in the Dash ecosystem despite past imperfections.
+Amanda and Rion share their views that the DIF's funding proposal is a worthwhile long-term investment in the Dash ecosystem despite past imperfections.
 
 ---
 

@@ -7,15 +7,15 @@ playlist: "Incubator Weekly"
 coverImage: "https://i.ytimg.com/vi_webp/dzGRN8CNGXA/maxresdefault.webp"
 ---
 
-Ryan and AJ discuss the potential for Dash masternodes to provide decentralized web hosting services.
+Rion and AJ discuss the potential for Dash masternodes to provide decentralized web hosting services.
 
-tl;dr: In this episode, Ryan and AJ explore the idea of Dash masternodes offering decentralized website hosting as a service to generate more demand for Dash and provide an alternative to centralized web hosts. They cover potential benefits like improved censorship resistance and convenience for users. Technical implementation details, incentive models, content moderation approaches and comparisons to Dash Platform/Evo are also discussed.
+tl;dr: In this episode, Rion and AJ explore the idea of Dash masternodes offering decentralized website hosting as a service to generate more demand for Dash and provide an alternative to centralized web hosts. They cover potential benefits like improved censorship resistance and convenience for users. Technical implementation details, incentive models, content moderation approaches and comparisons to Dash Platform/Evo are also discussed.
 
 00:00 - Taoism and Its Relevance to Dash 
-Ryan begins by discussing principles of Taoism and how they could apply to Dash's development.
+Rion begins by discussing principles of Taoism and how they could apply to Dash's development.
 
 05:17 - Introducing the Concept of Masternode Website Hosting
-Ryan introduces the main topic - having Dash masternodes provide decentralized website hosting as a service. AJ provides background.
+Rion introduces the main topic - having Dash masternodes provide decentralized website hosting as a service. AJ provides background.
 
 16:11 - Censorship Resistance vs Convenience 
 AJ explains the balance between making a service censorship resistant versus convenient and accessible to average users.
@@ -30,7 +30,7 @@ Concerns are raised about requiring all Evo nodes to host the same user-uploaded
 AJ outlines different approaches to mitigating the hosting of malicious content, such as collateral posting, higher pricing, and staking.
 
 1:02:36 - Wrapping Up and Gauging Interest
-Ryan notes they only scratched the surface of this complex topic. He thinks there is good potential and product-market fit, and asks for community feedback. The pair references a prior video with a more technical discussion.
+Rion notes they only scratched the surface of this complex topic. He thinks there is good potential and product-market fit, and asks for community feedback. The pair references a prior video with a more technical discussion.
 
 ---
 
