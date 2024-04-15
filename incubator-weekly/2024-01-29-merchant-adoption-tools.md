@@ -11,7 +11,7 @@ Dash enthusiast and merchant Eric discusses the challenges of accepting cryptocu
 
 ## Episode Summary
 
-tl;dr: Eric, a dedicated cryptocurrency enthusiast and online merchant, shares his experience trying to accept crypto payments on his Shopify store. He highlights the lack of easy-to-use, low-fee options for merchants, especially in the US. The discussion explores potential solutions, including partnering with other payment coins to create better crypto payment processors, and how Dash could leverage its platform to provide attractive merchant services.
+tl;dr: Eric shares his experience trying to accept crypto payments on his Shopify store. He highlights the lack of easy-to-use, low-fee options for merchants, especially in the US. The discussion explores potential solutions, including partnering with other payment coins to create better crypto payment processors, and how Dash could leverage its platform to provide attractive merchant services.
 
 ## Chapters
 

@@ -11,7 +11,7 @@ Mikhail discusses plans to build a decentralized peer-to-peer fiat to crypto exc
 
 ## Episode Summary
 
-tl;dr: Mikhail, a strategist from the Dash Incubator, discusses plans to build a decentralized peer-to-peer fiat to crypto exchange called LocalMoney on the Dash network. The exchange would allow users to trade fiat for Dash and other cryptocurrencies without relying on centralized exchanges. Key features include a trustless escrow system using multi-signature transactions, censorship resistance, and cross-chain atomic swaps. Challenges and potential solutions around decentralized infrastructure and user adoption are discussed.
+tl;dr: Mikhail discusses plans to build a decentralized peer-to-peer fiat to crypto exchange called LocalMoney on the Dash network. The exchange would allow users to trade fiat for Dash and other cryptocurrencies without relying on centralized exchanges. Key features include a trustless escrow system using multi-signature transactions, censorship resistance, and cross-chain atomic swaps. Challenges and potential solutions around decentralized infrastructure and user adoption are discussed.
 
 ## Chapters
 
@@ -19,7 +19,7 @@ tl;dr: Mikhail, a strategist from the Dash Incubator, discusses plans to build a
 The episode begins with a discussion on the proliferation of digital information, centralized cloud storage providers like Amazon, Google and Microsoft, and the censorship and surveillance concerns around centralization.
 
 04:53 - Introduction of Guest Mikhail and LocalMoney Concept
-Mikhail, a strategist from the Dash Incubator, is introduced to discuss plans for building a decentralized peer-to-peer fiat to crypto exchange called LocalMoney on the Dash network as an alternative to centralized exchanges.
+Mikhail is introduced to discuss plans for building a decentralized peer-to-peer fiat to crypto exchange called LocalMoney on the Dash network as an alternative to centralized exchanges.
 
 09:41 - Overview of LocalMoney and Escrow System
 Mikhail provides an overview of the LocalMoney concept - a decentralized exchange allowing fiat to crypto trades through a trustless escrow system using multi-signature transactions. Other planned features like cross-chain atomic swaps are discussed.
