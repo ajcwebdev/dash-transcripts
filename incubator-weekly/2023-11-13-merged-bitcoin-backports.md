@@ -11,15 +11,12 @@ Vijay discusses his experience with Dash, Bitcoin backports, and the state of cr
 
 ## Episode Summary
 
-tl;dr: Vijay, a software developer with 16 years of experience, shares his journey with Dash and his contributions through Bitcoin backports. He explains the process of selecting and customizing Bitcoin changes to integrate into Dash. The discussion also touches on the perception and legal status of cryptocurrencies in India, as well as Vijay's interest in further contributing to the Dash project.
+tl;dr: Vijay shares his journey with Dash and his contributions through Bitcoin backports. He explains the process of selecting and customizing Bitcoin changes to integrate into Dash. The discussion also touches on the perception and legal status of cryptocurrencies in India, as well as Vijay's interest in further contributing to the Dash project.
 
 ## Chapters
 
-00:00 - Introduction and Vijay's background
-The episode begins with an introduction of Vijay, a software developer with 16 years of experience. Vijay shares his background in computer science and his journey into blockchain development.
-
-06:15 - Vijay's contributions to Dash and Bitcoin backports
-Vijay discusses his initial contributions to Dash, starting with small Bitcoin backports and gradually taking on larger pull requests. He explains the process of selecting and customizing Bitcoin changes to integrate into Dash.
+04:58 - Vijay's background and contributions to Dash and Bitcoin backports
+The episode begins with an introduction of Vijay, a software developer with 16 years of experience. Vijay shares his background in computer science and his journey into blockchain development. Vijay discusses his initial contributions to Dash, starting with small Bitcoin backports and gradually taking on larger pull requests. He explains the process of selecting and customizing Bitcoin changes to integrate into Dash.
 
 11:07 - Understanding Bitcoin backports and the selection process
 The hosts and Vijay delve deeper into understanding what Bitcoin backports are and how they are selected for integration into Dash. Vijay shares a spreadsheet that tracks the progress of backports across different Bitcoin versions.

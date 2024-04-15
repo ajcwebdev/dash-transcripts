@@ -11,15 +11,14 @@ The Dash Incubator discusses the challenges and potential solutions regarding th
 
 ## Episode Summary
 
-tl;dr: The Dash Incubator hosts Pete, Hilawe, and Rion to discuss the DashDAO Irrevocable Trust Next Steps proposal by Brian Foster. They cover the original purpose of the trust, problems it aimed to solve, and proposed options moving forward. The guests express concerns about the trust structure creating perverse incentives and advocate for simplifying the legal entanglements around Dash Core Group (DCG). They emphasize the importance of accountability, deliverables, and alignment with the ethos of decentralization.
+tl;dr: The Dash Incubator hosts Pete, Hilawe, and Rion to discuss the DashDAO Irrevocable Trust Next Steps proposal by Brian Foster. They cover the original purpose of the trust, problems it aimed to solve, and proposed options moving forward. The guests express concerns about the trust structure creating perverse incentives and advocate for simplifying the legal entanglements around Dash Core Group (DCG).
 
 ## Chapters
 
-00:00 - Introduction and Background on the DashDAO Irrevocable Trust Proposal 
-Rion introduces the topic of the DashDAO Irrevocable Trust Next Steps proposal and provides context on the current status and voting timeline.
+00:00 - Why We Build
 
-05:07 - Guest Introductions and Reasons for Joining the Discussion
-Pete and Hilawe introduce themselves and explain their interest in discussing this proposal due to its potential significant impact on Dash.
+05:15 - Guest Introductions and Background on the DashDAO Irrevocable Trust Proposal
+Rion introduces the topic of the DashDAO Irrevocable Trust Next Steps proposal and provides context on the current status and voting timeline. Pete and Hilawe introduce themselves and explain their interest in discussing this proposal due to its potential significant impact on Dash.
 
 10:57 - Original Purpose and Problems with the DashDAO Irrevocable Trust
 Hilawe and Pete discuss the original rationale behind creating the trust to hold DCG Inc. shares and provide network oversight. They highlight issues with the trust structure and perverse incentives it created.

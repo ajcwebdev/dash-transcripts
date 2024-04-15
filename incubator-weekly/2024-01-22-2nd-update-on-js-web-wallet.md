@@ -18,7 +18,7 @@ tl;dr: Jojobyte and Rion demonstrate a web wallet being developed for Dash in th
 00:00 - Introduction and Background on Bitcoin ETF Approval
 The episode begins with a satirical intro about the SEC approving a spot Bitcoin ETF, framed as underwhelming compared to protocol improvements that could make Bitcoin better electronic cash.
 
-05:11 - Demo of Dash Web Wallet in Development 
+05:08 - Demo of Dash Web Wallet in Development 
 Jojobyte shares his screen to demonstrate a web wallet for Dash being built in the Dash Incubator. Key features shown include generating a new wallet, pairing wallets to send funds, backup and restore functionality, and client-side encryption.
 
 22:19 - Discussion on Benefits of a Web Wallet

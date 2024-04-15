@@ -16,9 +16,9 @@ tl;dr: Sven Rosbach, a volunteer supervisor for the Dash Investment Foundation (
 ## Chapters
 
 00:00 - Introduction and Background on Elizabeth Warren's Stance on Crypto 
-Amanda introduces the episode by discussing US Senator Elizabeth Warren's efforts to vilify and curtail cryptocurrency through proposed legislation.
+Discussion on US Senator Elizabeth Warren's efforts to vilify and curtail cryptocurrency through proposed legislation.
 
-04:17 - Continued Discussion of Warren's Anti-Crypto Efforts
+05:08 - Continued Discussion of Warren's Anti-Crypto Efforts
 The hosts continue to critique Warren's attempts to redirect the crypto narrative by associating it with terrorism and money laundering.
 
 06:00 - Introduction of Guest Sven Rosbach 

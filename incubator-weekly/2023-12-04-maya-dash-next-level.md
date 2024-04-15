@@ -15,11 +15,8 @@ tl;dr: Rion emphasizes the significance of DEXs like Maya for Dash, as they prov
 
 ## Chapters
 
-00:00 - Introduction and Motivation for Focusing on DEXs
-Rion explains his motivation for focusing on DEXs, particularly Maya, and their importance for the Dash ecosystem.
-
-04:58 - Discussing the Basics of Maya and Liquidity Pools
-Amanda and Rion discuss the basics of Maya, including liquidity pools, APRs, and how users can provide liquidity.
+04:57 - Introduction and Motivation for Focusing on DEXs
+Rion explains his motivation for focusing on DEXs, particularly Maya, and their importance for the Dash ecosystem. Amanda and Rion discuss the basics of Maya, including liquidity pools, APRs, and how users can provide liquidity.
 
 22:57 - The Importance of DEXs for Dash's Market Capitalization
 Rion emphasizes the significance of DEXs in determining the price of Dash and its impact on the project's perceived value and market capitalization.

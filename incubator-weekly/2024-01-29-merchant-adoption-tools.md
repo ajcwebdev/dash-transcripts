@@ -15,11 +15,8 @@ tl;dr: Eric shares his experience trying to accept crypto payments on his Shopif
 
 ## Chapters
 
-00:00 - Introduction and background on Eric's business
-Eric runs an online store selling board game pieces and accessories. He uses Shopify for his website and inventory management.
-
-05:02 - Eric's experience with accepting cryptocurrency payments
-Eric previously accepted Bitcoin and other coins through plugins like BitPay and CoinPayments, but found the options lacking over time, especially after CoinPayments stopped servicing US merchants.
+04:55 - Background on Eric's business and experience with accepting cryptocurrency payments
+Eric runs an online store selling board game pieces and accessories. He uses Shopify for his website and inventory management. Eric previously accepted Bitcoin and other coins through plugins like BitPay and CoinPayments, but found the options lacking over time, especially after CoinPayments stopped servicing US merchants.
 
 21:09 - Challenges with current cryptocurrency payment processors
 The group discusses the high fees, limited coin options, and poor user experiences provided by current crypto payment processors available to merchants.

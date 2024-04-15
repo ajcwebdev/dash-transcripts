@@ -15,11 +15,8 @@ tl;dr: Alessandro, a 23-year-old physics student and hobbyist developer, shares 
 
 ## Chapters
 
-00:00 - Introduction and Alessandro's background
-Pete and Amanda introduce the episode's guest, Alessandro, a young developer who has been contributing to the Dash code base as a hobby alongside his physics studies at university.
-
-06:05 - Alessandro's introduction to Dash and previous experience
-Alessandro shares how he discovered the Dash Incubator bounties through a friend and his prior experience working with the PIVX cryptocurrency, which has a codebase similar to Dash.
+05:04 - Introduction and Alessandro's background
+Pete and Amanda introduce the episode's guest, Alessandro, a young developer who has been contributing to the Dash code base as a hobby alongside his physics studies at university. Alessandro shares how he discovered the Dash Incubator bounties through a friend and his prior experience working with the PIVX cryptocurrency, which has a codebase similar to Dash.
 
 09:16 - Current focus: BIP143 implementation for improved transaction verification
 Alessandro discusses his ongoing work on implementing BIP143 in Dash, which aims to improve transaction verification performance by optimizing the signature hash computation process.

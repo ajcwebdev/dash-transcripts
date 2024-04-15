@@ -15,11 +15,8 @@ tl;dr: Jan demonstrates a proof-of-concept application called CreditPal that ena
 
 ## Chapters
 
-00:00 - Introduction and Overview of Purchase Credits
-Jan introduces the concept of Purchase Credits (formerly called Merchant Credits) and explains how it differs from traditional gift cards, acting as a decentralized payment infrastructure.
-
-03:02 - Discussion on the Unethical Nature of the Current Financial System 
-The hosts discuss the problems with the current dollar system, including lack of competition and unethical practices by central authorities. They explore the potential for cryptocurrencies like Dash to provide an alternative.
+05:02 - Introduction and Overview of Purchase Credits
+Jan introduces the concept of Purchase Credits (formerly called Merchant Credits) and explains how it differs from traditional gift cards, acting as a decentralized payment infrastructure. The hosts discuss the problems with the current dollar system, including lack of competition and unethical practices by central authorities. They explore the potential for cryptocurrencies like Dash to provide an alternative.
 
 06:11 - Technical Demo of the CreditPal Application
 Jan walks through a technical demonstration of the CreditPal application, showing how a merchant can issue digital credits to a customer in exchange for fiat currency, and how the customer can later redeem those credits for purchases.

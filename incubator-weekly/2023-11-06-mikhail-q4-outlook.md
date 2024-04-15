@@ -15,23 +15,26 @@ tl;dr: Mikhail provides an update on his various Dash projects. Platform Explore
 
 ## Chapters
 
-00:00 - Introduction and Dash Platform Explorer Update
-Mikhail demos new features in Dash Platform Explorer, including Identities search, viewing Identity details and data contracts, and a redesigned UI. He discusses the backend architecture and indexing.
+00:00 - Why We Build
+Intro video explores crypto scams and misconceptions about crypto.
 
-04:49 - Dash Electrum Update
-Dash Electrum has been updated to work with the latest testnet, with new Coinbase transaction support and translation updates. Mikhail maintains the default Electrum servers. Private send is not yet working.
+04:55 - Platform Explorer Updates
+Mikhail discusses the recent updates to the Platform Explorer, including the addition of Identities features that allow users to search and view data related to Identities. He also mentions some UI improvements and future plans for the Platform Explorer.
 
-07:54 - DashMate Update 
-A new version of DashMate improves config rendering, adds a dashcore-cli command for RPC calls, and includes various fixes and a config migration test. Mikhail believes it will simplify masternode management.
+13:07 - Dash Testnet Status and Electrum
+Mikhail and the host discuss issues with the Dash Testnet being stalled. They then move on to talk about updates to Dash Electrum, including fixes for the v12 testnet, new Coinbase transactions, and updated translations. Mikhail also introduces a new "dashcore-cli" command in Dash Electrum.
 
-12:14 - Trust Wallet InstantSend Support
-Mikhail reached out to Trust Wallet devs about the lack of InstantSend support. He found it's due to limitations in the BlockBook API that Trust Wallet uses. Mikhail plans to propose changes to enable InstantSend.
+23:02 - Dashmate Updates and Config Migration Tests
+Mikhail shares updates on Dashmate, including changes to how it renders service configs and the introduction of a new "dashmate-core-cli" command. He also discusses a config migration unit test that ensures builds don't break the config.
 
-16:12 - Ideas for Dash Platform Development Tools
-Mikhail discusses the need for data contract migration tools to help developers easily deploy and upgrade contracts, especially when testnets are reset. He also wants to create educational videos on Dash Platform development.
+29:10 - Trust Wallet and InstantSend Support
+Mikhail talks about his efforts to get the Trust Wallet to support InstantSend transactions by working with the BlockBook API used by the wallet.
 
-20:57 - DashMate Remote Control Mobile App Idea
-Mikhail shares mockups for a mobile app to monitor and control DashMate masternode deployments. It could check node status, next payment, and execute commands. He thinks it would be useful for masternode operators and hosting services.
+34:12 - Dash Platform Development Tools and Tutorials
+Mikhail discusses his ideas for improving Dash Platform development tools, including a migration tool for data contracts and creating video tutorials to help developers get started with Dash Platform.
+
+41:52 - Dashmate Mobile App Idea
+Mikhail shares his idea for a Dashmate mobile application that would allow users to monitor and control their Dashmate nodes remotely. The app could be useful for masternode operators and hosting services. The video ends with the hosts thanking Mikhail for his presentation.
 
 ## Transcript
 

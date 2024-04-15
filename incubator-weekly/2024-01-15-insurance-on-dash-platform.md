@@ -15,11 +15,8 @@ tl;dr: Rodrigo, CEO of 88i, explains how his company offers nano insurance polic
 
 ## Chapters
 
-00:00 - Introduction and overview of 88i's mission
-Rodrigo introduces 88i's purpose of protecting over a billion people globally through nano insurance policies.
-
-04:59 - Deeper dive into 88i's business model and partnerships 
-Rodrigo explains how 88i provides real-time insurance policies to Uber drivers in Brazil, with plans to expand coverage.
+04:52 - Introduction and overview of 88i's mission
+Rodrigo introduces 88i's purpose of protecting over a billion people globally through nano insurance policies. Rodrigo explains how 88i provides real-time insurance policies to Uber drivers in Brazil, with plans to expand coverage.
 
 16:06 - Technical discussion on implementing 88i's insurance platform on blockchain
 Rodrigo and Rion discuss the technical requirements for building 88i's global insurance platform on the Dash blockchain.

@@ -16,9 +16,9 @@ tl;dr: In this episode, Rion and AJ explore the idea of Dash masternodes offerin
 ## Chapters
 
 00:00 - Taoism and Its Relevance to Dash 
-Rion begins by discussing principles of Taoism and how they could apply to Dash's development.
+Discussion on the principles of Taoism and how they could apply to Dash's development.
 
-05:17 - Introducing the Concept of Masternode Website Hosting
+05:11 - Introducing the Concept of Masternode Website Hosting
 Rion introduces the main topic - having Dash masternodes provide decentralized website hosting as a service. AJ provides background.
 
 16:11 - Censorship Resistance vs Convenience 

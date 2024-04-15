@@ -15,11 +15,8 @@ tl;dr: Mikhail discusses the recent updates and fixes made to the Electrum Dash 
 
 ## Chapters
 
-00:00 - Introduction and Electrum Dash Overview
-Mikhail introduces himself and provides an overview of the Electrum Dash wallet, its features, and recent development work.
-
-02:50 - PrivateSend Mixing Updates and Demo
-Mikhail discusses the fixes made to the PrivateSend mixing feature, including upgrading dependencies and libraries. He demonstrates the mixing process within the wallet.
+04:58 - Electrum Dash Overview and PrivateSend Mixing Updates
+Mikhail introduces himself and provides an overview of the Electrum Dash wallet, its features, and recent development work. Mikhail discusses the fixes made to the PrivateSend mixing feature, including upgrading dependencies and libraries. He demonstrates the mixing process within the wallet.
 
 14:35 - Electrum Dash Website Redesign
 The new website designs for Electrum Dash are presented, which include download links, documentation, and frequently asked questions.

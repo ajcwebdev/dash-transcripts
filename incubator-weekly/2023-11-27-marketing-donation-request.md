@@ -18,7 +18,7 @@ tl;dr: Joël and Marina discuss their Dash Growth pre-proposal and plans for a n
 00:00 - Sizzle Reel: Centralized Crypto Exchanges Face Challenges
 The sizzle reel covers recent issues faced by major centralized crypto exchanges like Poloniex, Kraken, Bittrex, and Binance, and the crypto war between exchanges and regulators.
 
-04:42 - Greeting Guests and Recapping Crowdfunding Success 
+04:47 - Greeting Guests and Recapping Crowdfunding Success 
 Ryan and Amanda welcome Joël and Marina, noting that their crowdfunding goal has been reached. Marina expresses excitement and relief at the successful crowdfund.
 
 06:44 - Joël and Marina's Backgrounds and Motivations
@@ -33,10 +33,10 @@ Joël explains how he will attempt to quantify the results of marketing efforts 
 52:55 - Funding Approaches: Free Market vs Treasury
 Joël and Marina field questions about why they are seeking treasury funding rather than a purely free-market approach. Joël sees a need for both, with the treasury supporting Dash-centric efforts while his separate initiatives like Dash Community Twitter will pursue independent revenue.
 
-69:24 - Public Personas and Involvement of Joël and Marina
+1:09:24 - Public Personas and Involvement of Joël and Marina
 Marina and Joël discuss their willingness to be public faces for Dash Growth's initiatives to build trust, but not to the point of it becoming a distraction from serving the Dash network.
 
-72:55 - Future Crowdfunding Opportunities
+1:12:55 - Future Crowdfunding Opportunities
 With the crowdfunding goal reached, Joël says they won't be accepting more donations for this initial pre-proposal, but he hopes to pursue similar crowdfunded initiatives in the future for specific Dash growth campaigns.
 
 ## Transcript

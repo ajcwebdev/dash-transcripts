@@ -15,11 +15,8 @@ tl;dr: Jojobyte demonstrates an experimental JavaScript-based Dash web wallet wi
 
 ## Chapters
 
-00:00 - Introduction and Overview of Wallet Features
-Jojobyte introduces the experimental JavaScript-based Dash web wallet, discussing its features like contact pairing, fund requesting, and sending/receiving payments.
-
-02:56 - Technical Details and Security Considerations
-The hosts discuss the wallet's technical aspects, including its use of pure JavaScript without frameworks for security and performance, and the storage of wallet data in the browser.
+04:57 - Introduction and Overview of Wallet Features
+Jojobyte introduces the experimental JavaScript-based Dash web wallet, discussing its features like contact pairing, fund requesting, and sending/receiving payments. The hosts discuss the wallet's technical aspects, including its use of pure JavaScript without frameworks for security and performance, and the storage of wallet data in the browser.
 
 08:28 - Live Demonstration of Wallet Functionality
 Jojobyte demonstrates the wallet's features, including generating a new wallet, importing an existing one, pairing contacts, and sending/receiving payments.

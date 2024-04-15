@@ -18,7 +18,7 @@ tl;dr: This episode explores the concept of enabling merchants to issue their ow
 00:00 - Introduction and Background Information
 The episode begins with information about the decline in cash usage in Australia and the RBA's efforts to develop a CBDC.
 
-04:12 - Introduction of Guest and Concept
+04:57 - Introduction of Guest and Concept
 Introduction of guest Yon (formerly Max) and the recently accepted concept about merchant credits to be discussed.
 
 11:06 - Explanation of the Merchant Credit System Concept

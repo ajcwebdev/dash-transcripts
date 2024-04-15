@@ -18,7 +18,7 @@ tl;dr: In this quarterly report, the Dash Incubator strategists share updates on
 00:00 - Challenges in Driving Cryptocurrency Adoption
 The episode begins with a discussion on the challenges in driving mainstream adoption of cryptocurrencies, emphasizing the need to appeal to users' emotions and provide accessible, user-friendly solutions.
 
-04:17 - Strategists' Motivations and Aspirations
+04:15 - Strategists' Motivations and Aspirations
 The strategists share their motivations for being involved in Dash, highlighting their desire to create a better world and a fair, just financial system that promotes peace and prosperity.
 
 07:01 - Tim's Project Updates and Fund Depletion

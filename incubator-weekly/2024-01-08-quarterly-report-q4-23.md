@@ -18,7 +18,7 @@ tl;dr: Mikhail shared updates on his work on the Platform Explorer, Electrum Das
 00:00 - Intro and Discussion on Fear as a Motivator
 The episode begins with a discussion on the role of fear as a motivator, drawing from pop culture and philosophical references. The hosts emphasize the importance of awareness and action over paralysis.
 
-04:42 - Mikhail's Quarterly Report: Platform Explorer 
+04:48 - Mikhail's Quarterly Report: Platform Explorer 
 Mikhail shares updates on the Platform Explorer project, highlighting the implementation of basic functionality, robustness of the backend, and the ability for developers to use the Explorer API.
 
 11:12 - Mikhail's Quarterly Report: Electrum Dash

@@ -18,7 +18,7 @@ tl;dr: In this episode, AJ shares his experience trying to set up an Evo node an
 00:00 - Reflections on crypto adoption data
 The episode begins with a discussion of survey data on global crypto adoption and awareness, and how Dash can position itself to gain more users.
 
-02:52 - Introduction and recent experiences with Dash Platform
+04:57 - Introduction and recent experiences with Dash Platform
 The hosts introduce themselves and discuss AJ's recent attempts to set up an Evo node and test Dash Platform.
 
 16:01 - Issues with Dash Platform documentation and installation
