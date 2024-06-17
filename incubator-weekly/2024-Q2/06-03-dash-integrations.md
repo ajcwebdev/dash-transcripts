@@ -7,25 +7,25 @@ publishDate: "2024-06-03"
 coverImage: "https://i.ytimg.com/vi/S4sWlcIynMw/sddefault.jpg?v=665dde46"
 ---
 
-Anthony and Rion discuss the importance of integrations in the dash ecosystem and explore potential new integrations to pursue.
+Anthony and Rion discuss the importance of integrations in the Dash ecosystem and explore potential new integrations to pursue.
 
 ## Episode Summary
 
-TL;DR: In this episode, Anthony and Rion dive into dash integrations, discussing the current state, potential improvements, and strategies for onboarding new developers and entrepreneurs. They explore integrating dash payments into web2 platforms, targeting startup entrepreneurs, and incentivizing dash usage. The conversation also touches on the challenges of crypto adoption and the need for streamlined user experiences.
+TL;DR: In this episode, Anthony and Rion dive into Dash integrations, discussing the current state, potential improvements, and strategies for onboarding new developers and entrepreneurs. They explore integrating Dash payments into web2 platforms, targeting startup entrepreneurs, and incentivizing Dash usage. The conversation also touches on the challenges of crypto adoption and the need for streamlined user experiences.
 
 ## Chapters
 
 00:00 - Recapping Previous Episode and Setting the Stage 
 
-Anthony and Rion briefly recap their previous discussion on XD5 (formerly XRP) integration and set the stage for their conversation on dash integrations, emphasizing the importance of visibility and hardening one's product through integrations.
+Anthony and Rion briefly recap their previous discussion on XD5 (formerly XRP) integration and set the stage for their conversation on Dash integrations, emphasizing the importance of visibility and hardening one's product through integrations.
 
 03:04 - Exploring Existing Dash Integrations
 
-Rion and Anthony navigate to the dash.org website to explore the current state of dash integrations. They discuss the need for updating and better organizing the information to make it more accessible and user-friendly.
+Rion and Anthony navigate to the Dash.org website to explore the current state of Dash integrations. They discuss the need for updating and better organizing the information to make it more accessible and user-friendly.
 
 10:01 - Identifying Areas for Improvement in Dash Integrations
 
-Anthony and Rion identify areas where dash integrations could be improved, such as adding the dash npm package and updating outdated SDK links. They also discuss the future roadmap, which includes a rust library by dash core group.
+Anthony and Rion identify areas where Dash integrations could be improved, such as adding the Dash npm package and updating outdated SDK links. They also discuss the future roadmap, which includes a rust library by Dash core group.
 
 17:49 - Strategies for Pursuing New Integrations
 
@@ -33,19 +33,19 @@ The conversation shifts to strategies for pursuing new integrations, particularl
 
 24:45 - Onboarding New Developers and Entrepreneurs  
 
-Rion explains his strategy for onboarding new developers and entrepreneurs to the dash ecosystem. This includes providing an easy-to-use web wallet (wallet.dashincubator.dev), educating them about dash, and potentially incentivizing dash usage through discounts and premiums.
+Rion explains his strategy for onboarding new developers and entrepreneurs to the Dash ecosystem. This includes providing an easy-to-use web wallet (wallet.dashincubator.dev), educating them about Dash, and potentially incentivizing Dash usage through discounts and premiums.
 
 35:23 - Identifying and Connecting with Potential Integrators
 
-Anthony and Rion brainstorm ways to identify and connect with potential integrators, such as using the dash incubator Twitter account to reach out to startup entrepreneurs and developers. They discuss the importance of solving real-world problems and targeting individuals with complete control over decision-making.
+Anthony and Rion brainstorm ways to identify and connect with potential integrators, such as using the Dash incubator Twitter account to reach out to startup entrepreneurs and developers. They discuss the importance of solving real-world problems and targeting individuals with complete control over decision-making.
 
 43:45 - Incentivizing Dash Usage and Solving Real-World Problems
 
-Rion elaborates on his idea for an incentive program that would offer discounts to customers and premiums to entrepreneurs for using dash. He emphasizes the need to solve real-world problems, such as global e-commerce, and provide incentives for people to try using dash for payments.
+Rion elaborates on his idea for an incentive program that would offer discounts to customers and premiums to entrepreneurs for using Dash. He emphasizes the need to solve real-world problems, such as global e-commerce, and provide incentives for people to try using Dash for payments.
 
 47:53 - Integrating Dash Payments into Web2 Platforms
 
-Anthony and Rion discuss the technical aspects of integrating dash payments into web2 platforms, particularly through the stripe API. They examine the ease of use and potential challenges, comparing it to other payment processing solutions.
+Anthony and Rion discuss the technical aspects of integrating Dash payments into web2 platforms, particularly through the stripe API. They examine the ease of use and potential challenges, comparing it to other payment processing solutions.
 
 51:48 - Challenges in Crypto Adoption and User Experience
 
