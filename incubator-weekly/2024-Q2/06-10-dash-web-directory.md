@@ -13,7 +13,7 @@ Ash discusses the upcoming relaunch of a gift card and merchant directory servic
 
 ## Episode Summary
 
-In this episode, Ash provides an update on the upcoming launch of a gift card and merchant directory service for Dash. The service is powered by CTX and will allow users to purchase gift cards from over 150,000 US merchant locations at a discount using Dash. Ash outlines the user experience, differences from the discontinued Dash Direct, and plans for future expansion to Canada, Europe, and a potential Visa/MasterCard integration. The service aims to provide interim utility for Dash until more merchants accept it directly.
+In this episode, Ash provides an update on the upcoming launch of a gift card and merchant directory service for Dash. The service, powered CTX, will allow users to purchase gift cards from over 150,000 US merchant locations at a discount using Dash. Ash outlines the user experience, differences from the discontinued Dash Direct, and plans for future expansion to Canada, Europe, and a potential Visa/MasterCard integration. The service aims to provide interim utility for Dash until more merchants accept it directly.
 
 ## Chapters
 
