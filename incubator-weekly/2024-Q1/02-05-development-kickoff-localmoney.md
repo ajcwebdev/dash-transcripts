@@ -15,25 +15,32 @@ tl;dr: Mikhail discusses plans to build a decentralized peer-to-peer fiat to cry
 
 ## Chapters
 
-00:00 - Introduction and Background on Centralized Cloud Storage 
+00:00 - Introduction and Background on Centralized Cloud Storage
+
 The episode begins with a discussion on the proliferation of digital information, centralized cloud storage providers like Amazon, Google and Microsoft, and the censorship and surveillance concerns around centralization.
 
 04:53 - Introduction of Guest Mikhail and LocalMoney Concept
+
 Mikhail is introduced to discuss plans for building a decentralized peer-to-peer fiat to crypto exchange called LocalMoney on the Dash network as an alternative to centralized exchanges.
 
 09:41 - Overview of LocalMoney and Escrow System
+
 Mikhail provides an overview of the LocalMoney concept - a decentralized exchange allowing fiat to crypto trades through a trustless escrow system using multi-signature transactions. Other planned features like cross-chain atomic swaps are discussed.
 
-16:49 - Development Plan and Decentralized Infrastructure 
+16:49 - Development Plan and Decentralized Infrastructure
+
 The development plan is laid out, starting with research into the escrow and multi-sig system, building out the front-end and back-end, and then exploring approaches to decentralizing the infrastructure to make the exchange censorship-resistant.
 
 22:56 - Challenges with Atomic Swaps and Adoption
+
 Potential challenges with cross-chain atomic swaps are discussed, including the need for double coincidence of wants and the difficulties faced by similar projects like BISQ. Mikhail believes focusing on user experience and accessibility compared to desktop-only clients can drive adoption.
 
 32:07 - Comparisons to Competitor Projects
+
 LocalMoney is compared and contrasted with projects like BISQ and Local Bitcoin in terms of features, user experience, and potential reasons they struggled with adoption. The need to focus and avoid expanding scope too much is emphasized.
 
 38:15 - Importance of Escrow and Mikhail's Personal Commitment
+
 The importance of a solid escrow system to the minimum viable product is highlighted. Mikhail expresses his personal commitment to using LocalMoney himself, especially for Ruble trading pairs, and openness to community feedback.
 
 ## Transcript
