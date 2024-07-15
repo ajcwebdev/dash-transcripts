@@ -13,7 +13,7 @@ The Dash Incubator team provides quarterly updates on their projects and discuss
 
 ## Episode Summary
 
-This episode features quarterly updates from the Dash Incubator team, including Mikhail, Jojobyte, and Rion, with Anthony participating. They discuss progress on projects such as Platform Explorer, DashMate, wallet development, and PrivateSend SDK. The team emphasizes preparations for Dash Platform's mainnet launch and its implications for their work. They also cover developer relations efforts, upcoming blockchain meetups, and potential improvements to the Dash JavaScript SDK. The discussion underscores the team's focus on readying for Dash Platform's release and expanding the Dash developer ecosystem.
+The Dash Incubator team discusses progress on projects such as Platform Explorer, DashMate, wallet development, and PrivateSend SDK. The team emphasizes preparations for Dash Platform's mainnet launch and its implications for their work. They also cover developer relations efforts, upcoming blockchain meetups, and potential improvements to the Dash JavaScript SDK. The discussion underscores the team's focus on readying for Dash Platform's release and expanding the Dash developer ecosystem.
 
 ## Chapters
 

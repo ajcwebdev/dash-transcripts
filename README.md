@@ -1,8 +1,18 @@
 # Dash Incubator YouTube Transcripts
 
+## Outline
+
+- [Incubator Weekly](#incubator-weekly)
+  - [2023 Q1-Q2 Incubator Weekly Episodes](#2023-q1-q2-incubator-weekly-episodes)
+  - [2023 Q3-Q4 Incubator Weekly Episodes](#2023-q3-q4-incubator-weekly-episodes)
+  - [2024 Q1-Q2 Incubator Weekly Episodes](#2024-q1-q2-incubator-weekly-episodes)
+  - [2024 Q3-Q4 Incubator Weekly Episodes](#2024-q3-q4-incubator-weekly-episodes)
+- [Dash Platform Walkthroughs](#dash-platform-walkthroughs)
+  - [2024 Q2-Q3 Platform Walkthroughs](#2024-q2-q3-platform-walkthroughs)
+
 ## Incubator Weekly
 
-### 2023 Q1
+### 2023 Q1-Q2 Incubator Weekly Episodes
 
 - [02-13-welcome-to-dash-incubator](/incubator-weekly/2023-Q1/02-13-welcome-to-dash-incubator.md)
 - [02-20-paying-blockchain-devs-in-crypto](/incubator-weekly/2023-Q1/02-20-paying-blockchain-devs-in-crypto.md)
@@ -11,9 +21,6 @@
 - [03-13-state-of-dashmate](/incubator-weekly/2023-Q1/03-13-state-of-dashmate.md)
 - [03-20-building-our-first-wallet](/incubator-weekly/2023-Q1/03-20-building-our-first-wallet.md)
 - [03-27-dash-privacy](/incubator-weekly/2023-Q1/03-27-dash-privacy.md)
-
-### 2023 Q2
-
 - [04-03-quarterly-report-q1-23](/incubator-weekly/2023-Q2/04-03-quarterly-report-q1-23.md)
 - [04-10-summoners-dash-layer1-and-platform](/incubator-weekly/2023-Q2/04-10-summoners-dash-layer1-and-platform.md)
 - [04-17-multi-coin-payment-processor](/incubator-weekly/2023-Q2/04-17-multi-coin-payment-processor.md)
@@ -28,7 +35,7 @@
 - [06-19-dash-maya-integration-update](/incubator-weekly/2023-Q2/06-19-dash-maya-integration-update.md)
 - [06-26-goal-challenge-platform-dapp](/incubator-weekly/2023-Q2/06-26-goal-challenge-platform-dapp.md)
 
-### 2023 Q3
+### 2023 Q3-Q4 Incubator Weekly Episodes
 
 - [07-03-dash-coinjoin-js-library](/incubator-weekly/2023-Q3/07-03-dash-coinjoin-js-library.md)
 - [07-10-quarterly-report-q2-23](/incubator-weekly/2023-Q3/07-10-quarterly-report-q2-23.md)
@@ -43,9 +50,6 @@
 - [09-11-dash-block-reward-reallocation](/incubator-weekly/2023-Q3/09-11-dash-block-reward-reallocation.md)
 - [09-18-case-against-decreasing-miner-rewards](/incubator-weekly/2023-Q3/09-18-case-against-decreasing-miner-rewards.md)
 - [09-25-electrum-wallet-updates](/incubator-weekly/2023-Q3/09-25-electrum-wallet-updates.md)
-
-### 2023 Q4
-
 - [10-09-digital-cash-roadmap-and-concerns](/incubator-weekly/2023-Q4/10-09-digital-cash-roadmap-and-concerns.md)
 - [10-16-quarterly-report-q3-23](/incubator-weekly/2023-Q4/10-16-quarterly-report-q3-23.md)
 - [10-23-testing-dash-platform](/incubator-weekly/2023-Q4/10-23-testing-dash-platform.md)
@@ -58,7 +62,7 @@
 - [12-11-dash-masternode-network-frontend-hosting](/incubator-weekly/2023-Q4/12-11-dash-masternode-network-frontend-hosting.md)
 - [12-18-dash-investment-foundation-proposed-funding](/incubator-weekly/2023-Q4/12-18-dash-investment-foundation-proposed-funding.md)
 
-### 2024 Q1
+### 2024 Q1-Q2 Incubator Weekly Episodes
 
 - [01-01-merchant-loyalty-credits](/incubator-weekly/2024-Q1/01-01-merchant-loyalty-credits.md)
 - [01-08-quarterly-report-q4-23](/incubator-weekly/2024-Q1/01-08-quarterly-report-q4-23.md)
@@ -72,9 +76,6 @@
 - [03-04-dns-on-dash](/incubator-weekly/2024-Q1/03-04-dns-on-dash.md)
 - [03-18-dash-platform-for-web-devs-part-1](/incubator-weekly/2024-Q1/03-18-dash-platform-for-web-devs-part-1.md)
 - [03-25-dash-platform-for-web-devs-part-2](/incubator-weekly/2024-Q1/03-25-dash-platform-for-web-devs-part-2.md)
-
-### 2024 Q2
-
 - [04-01-what-is-a-dapp](/incubator-weekly/2024-Q2/04-01-what-is-a-dapp.md)
 - [04-08-quarterly-report-q1-24-incubator-weekly](/incubator-weekly/2024-Q2/04-08-quarterly-report-q1-24-incubator-weekly.md)
 - [04-15-dash-web-wallet-ui-incubator-weekly](/incubator-weekly/2024-Q2/04-15-dash-web-wallet-ui-incubator-weekly.md)
@@ -86,13 +87,15 @@
 - [06-17-platform-explorer](/incubator-weekly/2024-Q2/06-17-platform-explorer.md)
 - [06-24-mainnet-is-imminent](/incubator-weekly/2024-Q2/06-24-mainnet-is-imminent.md)
 
-### 2024 Q3
+### 2024 Q3-Q4 Incubator Weekly Episodes
 
 - [07-03-developing-dash-apps](/incubator-weekly/2024-Q2/07-03-developing-dash-apps.md)
 - [07-08-platform-terminal-user-interface](/incubator-weekly/2024-Q3/07-08-platform-terminal-user-interface.md)
 - [07-15-quarterly-report-q2-2024](/incubator-weekly/2024-Q3/07-15-quarterly-report-q2-2024.md)
 
 ## Dash Platform Walkthroughs
+
+### 2024 Q2-Q3 Platform Walkthroughs
 
 - [06-04-part-01-monarch-wadia](/walkthroughs/2024-Q2/06-04-part-01-monarch-wadia.md)
 - [06-06-part-02a-nick-taylor](/walkthroughs/2024-Q2/06-06-part-02a-nick-taylor.md)
@@ -101,4 +104,7 @@
 - [06-19-part-04-julius-hamilton](/walkthroughs/2024-Q2/06-19-part-04-julius-hamilton.md)
 - [06-20-part-05-travis-waith-mair](/walkthroughs/2024-Q2/06-20-part-05-travis-waith-mair.md)
 - [06-23-part-06-trent-larson](/walkthroughs/2024-Q2/06-23-part-06-trent-larson.md)
-- [06-26-part-07-niles-salter](/walkthroughs/2024-Q2/06-26-part-07-niles-salter.md)
+- [06-26-part-07-niles-salter](/walkthroughs/2024-Q2/06-26-part-07a-niles-salter.md)
+- [07-05-part-08-rishi-raj-jain](/walkthroughs/2024-Q3/07-05-part-08-rishi-raj-jain.md)
+- [07-09-part-09-claire-froelich](/walkthroughs/2024-Q3/07-09-part-09-claire-froelich.md)
+- [07-10-part-07b-niles-salter](/walkthroughs/2024-Q3/07-10-part-07b-niles-salter.md)
