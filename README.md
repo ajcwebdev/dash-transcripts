@@ -92,6 +92,7 @@
 - [07-03-developing-dash-apps](/incubator-weekly/2024-Q2/07-03-developing-dash-apps.md)
 - [07-08-platform-terminal-user-interface](/incubator-weekly/2024-Q3/07-08-platform-terminal-user-interface.md)
 - [07-15-quarterly-report-q2-2024](/incubator-weekly/2024-Q3/07-15-quarterly-report-q2-2024.md)
+- [07-22-dash-proposal-web-app](/incubator-weekly/2024-Q3/07-22-dash-proposal-web-app.md)
 
 ## Dash Platform Walkthroughs
 
@@ -108,3 +109,4 @@
 - [07-05-part-08-rishi-raj-jain](/walkthroughs/2024-Q3/07-05-part-08-rishi-raj-jain.md)
 - [07-09-part-09-claire-froelich](/walkthroughs/2024-Q3/07-09-part-09-claire-froelich.md)
 - [07-10-part-07b-niles-salter](/walkthroughs/2024-Q3/07-10-part-07b-niles-salter.md)
+- [07-15-part-10-jim-fisk](/walkthroughs/2024-Q3/07-15-part-10-jim-fisk.md)
