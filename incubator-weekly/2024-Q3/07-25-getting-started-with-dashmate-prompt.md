@@ -130,76 +130,48 @@ Finally, they summarize the strengths of local development: predictable funding,
 [00:33] on how to use Dashmate to set up a local development environment for Dashplatform. So
 [00:41] Anthony, do you want to bring up that blog post and give it an introduction
 [00:44] and then we'll dive right in. Yes. Whoops. Give me one second. Anthony has abandoned
-[01:09] me here all alone with you folks. So one of the reasons that we're doing
-[00:00] this is it makes it easier to develop applications if you have just a local
+[01:09] me here all alone with you folks. So one of the reasons that we're doing this is it makes it easier to develop applications if you have just a local
 [01:17] network because 90% of what you're doing when you're building a Dash app is client
 [01:25] side stuff and you don't really need a test network to test most of the
 [01:35] functionality that you're going to be building with your application. But you do need some
 [01:44] kind of backend service and so a local network will help with that. Okay, here
 [01:58] we go. Yeah, so with Dashmate, I found that the thing that was most confusing
-[02:09] for me is just kind of the process of like starting, stopping, resetting, restarting. There's
-[00:00] like this whole set of different things you can kind of do, but that you
+[02:09] for me is just kind of the process of like starting, stopping, resetting, restarting. There's like this whole set of different things you can kind of do, but that you
 [02:14] can kind of ignore all of that if you just set it up and like
 [02:23] set it and forget it. So over here, I already ran these commands because you
-[02:29] see here the setup local commands. The first one you run, it takes about two
-[00:00] minutes to run. At least it did when I did when I last ran it.
-[02:36] And it goes, it kicks open Docker and starts a whole bunch of Docker containers.
-[00:00] If we look in Docker just real quick, we see that we have like four
-[00:00] running containers. We have a whole bunch of images and a crap ton of volumes.
-[00:00] So ideally, you won't need to mess with any of this stuff. And if you
-[03:02] do, you're probably gone pretty wrong. But once you set up local, that sets you
-[00:00] up for the local group, and then you do everything through this group command. So
-[00:00] dash group start, then that takes about a minute to run does all of that.
-[00:00] And that's pretty much all you need to do to get it going. Now we
-[03:31] will stop and restart. start. To do the minting. But the way I set up
-[00:00] the tutorial is I first have you start it so that you can create your
-[00:00] wallet. And you also have this group status command, which will give you the status
-[03:56] of your local network. So you see here we got our local network, and it
-[00:00] is up and then we have local one local to local three, and then this
-[04:15] local seed thing. I know the local seed you use when you're minting. you're minting.
-[00:00] So you're minting. So you're minting. And then I have some little explanations here for
-[04:24] kind of the different ways of stopping, starting, restarting. and the dash mate group colon
-[00:00] stop, dash dash force, that will be the one you'll use to stop and restart
-[00:00] if you don't want to reset anything if you don't want to basically have to
+[02:29] see here the setup local commands. The first one you run, it takes about two minutes to run. At least it did when I did when I last ran it.
+[02:36] And it goes, it kicks open Docker and starts a whole bunch of Docker containers. If we look in Docker just real quick, we see that we have like four running containers. We have a whole bunch of images and a crap ton of volumes. So ideally, you won't need to mess with any of this stuff. And if you
+[03:02] do, you're probably gone pretty wrong. But once you set up local, that sets you up for the local group, and then you do everything through this group command. So dash group start, then that takes about a minute to run does all of that. And that's pretty much all you need to do to get it going. Now we
+[03:31] will stop and restart. start. To do the minting. But the way I set up the tutorial is I first have you start it so that you can create your wallet. And you also have this group status command, which will give you the status
+[03:56] of your local network. So you see here we got our local network, and it is up and then we have local one local to local three, and then this
+[04:15] local seed thing. I know the local seed you use when you're minting. you're minting. So you're minting. So you're minting. And then I have some little explanations here for
+[04:24] kind of the different ways of stopping, starting, restarting. and the dash mate group colon stop, dash dash force, that will be the one you'll use to stop and restart if you don't want to reset anything if you don't want to basically have to
 [04:43] run the setup local command again. And then you can restart it, which is basically
-[04:52] just like stopping it and starting it again. And then resetting is when you kind
-[00:00] of like wipe the whole thing and start again, but there's reset with dash dash
-[00:00] force or reset with dash dash force and dash dash hard, which does higher complete
+[04:52] just like stopping it and starting it again. And then resetting is when you kind of like wipe the whole thing and start again, but there's reset with dash dash force or reset with dash dash force and dash dash hard, which does higher complete
 [05:10] reset. And then reset. So this is kind of like the hail Mary if your
-[05:15] thing is totally borked. And then well, so we'll do if it's really borked is
-[00:00] I'll go into the dot dash mate folder and I'll blow this away as well
-[00:00] because ideally you shouldn't have to if you the reset hard force should blow away
-[05:33] your configuration. But I just, I just, I just found that sometimes if like I
-[00:00] want to do a full full reset, you can delete that dot dash mate folder
-[00:00] as well because this is what's holding your config here, which is like this huge
-[05:50] giant file with all this config in it. Yep. And the dash mate group reset
-[00:00] dash dash hard dash dash force does not blow that folder away is what you're
-[06:01] saying. Exactly. Yeah. And it should get further. You can just, yeah, do that. Yeah.
-[00:00] It should like reset your config dot JSON file, I believe is, is what it's
-[06:13] supposed to do. So, um, for the most part, like I said, you're, you're not
-[00:00] going to run into a lot of these issues unless you're having to stop and
-[06:24] start and restart a lot. Or if like you kind of, you know, leave a
-[00:00] project for a week and then like come back and your dark containers may or
+[05:15] thing is totally borked. And then well, so we'll do if it's really borked is I'll go into the dot dash mate folder and I'll blow this away as well because ideally you shouldn't have to if you the reset hard force should blow away
+[05:33] your configuration. But I just, I just, I just found that sometimes if like I want to do a full full reset, you can delete that dot dash mate folder as well because this is what's holding your config here, which is like this huge
+[05:50] giant file with all this config in it. Yep. And the dash mate group reset dash dash hard dash dash force does not blow that folder away is what you're
+[06:01] saying. Exactly. Yeah. And it should get further. You can just, yeah, do that. Yeah. It should like reset your config dot JSON file, I believe is, is what it's
+[06:13] supposed to do. So, um, for the most part, like I said, you're, you're not going to run into a lot of these issues unless you're having to stop and
+[06:24] start and restart a lot. Or if like you kind of, you know, leave a project for a week and then like come back and your dark containers may or
 [06:33] may not still be running. So that's where just some of this kind of like
 [06:39] maintenance stuff comes in. But if you're kind of just going through the happy path,
 [06:47] then you're, you're usually going to be in, in pretty good shape. Um, so let,
 [06:50] okay. So you have, you have installed all the prerequisites, which would include Docker, which
 [06:57] would include node. Uh, you'd have, you, you went through the system, system requirements checks
 [07:06] to make sure that you meet all of those system requirements. And I installed dash
-[07:09] mate globally. Yeah. Scroll all the way up to the top. Just, I'm not sure
-[00:00] that we actually showed the very top just so that people can get an idea.
+[07:09] mate globally. Yeah. Scroll all the way up to the top. Just, I'm not sure that we actually showed the very top just so that people can get an idea.
 [07:16] We're at your website. First look at dash mate, first look dash mate. Um, and
 [07:27] we have an outline. We've been overview. Um, we have prerequisites. Like I just said,
 [07:34] no Docker dash mate. You've installed all of those. Uh, and then globally installed dash
 [07:39] mate as well. Yep. Yeah. So that was, so that was all we did to,
 [07:45] to get started. And then you'll know you've got it working where you can run
-[07:50] this dash mate help command. So there's your, your dash mate command. So the, the
-[00:00] surface area of dash mate is actually pretty small if you're not needing to get
+[07:50] this dash mate help command. So there's your, your dash mate command. So the, the surface area of dash mate is actually pretty small if you're not needing to get
 [08:02] into the guts of it. And if you like, if you don't need to deal
 [08:07] with SSL or, or things like that. So really it's mostly just set up, start,
 [08:15] and then all the group commands that you need to deal with. Yep. Okay. Okay.
-[08:18] Okay. Okay. So you've already also run the groups. Uh, yeah, maybe just go a
-[00:00] little bit slower on the tutorial side, just so that people see which commands you
+[08:18] Okay. Okay. So you've already also run the groups. Uh, yeah, maybe just go a little bit slower on the tutorial side, just so that people see which commands you
 [08:32] run. We don't have to read the paragraphs, but. Yeah. So we had dash mate
 [08:38] set up local. So that ran this thing right here. Yep. And then dash mate
 [08:47] group start. Just this command here. You'll know it works if you get all checks,
@@ -207,22 +179,18 @@ Finally, they summarize the strengths of local development: predictable funding,
 [08:59] Okay. Uh, now I'm not, I don't expect you to know this, but just in
 [09:08] case you do, I actually don't know this, um, in terms of how the local
 [09:13] setup works. But I believe, um, based on what I know from using the SDK
-[09:21] and whatnot, uh, on test net that. You, you need this seed node. And then
-[00:00] the seed node essentially does the work of giving you a URL to contact and
+[09:21] and whatnot, uh, on test net that. You, you need this seed node. And then the seed node essentially does the work of giving you a URL to contact and
 [09:32] get a list of master nodes. And in this case, it would be one of
 [09:36] those three nodes that you've set up. That's all you have to choose from because
 [09:39] it's a local network. And then you do your further communication with one of those
 [09:42] nodes. Do you know if that's how it works on this local setup as well
 [09:49] as how it's done that with test net? So if by URL, are you talking
-[09:53] about this? Uh, potentially, um, we would have to look at what the seed node,
-[00:00] uh, port is when we set it up, but we don't have to go through
-[10:05] that today. It's just in case you happen to know what it was. Um, so
-[00:00] if you go into our config, I think I might, we might see what you're,
+[09:53] about this? Uh, potentially, um, we would have to look at what the seed node, uh, port is when we set it up, but we don't have to go through
+[10:05] that today. It's just in case you happen to know what it was. Um, so if you go into our config, I think I might, we might see what you're,
 [10:16] what you're talking about. Um, so let's, uh, let's, uh, whoa, this is thousands of
 [10:28] lines long. Okay. So yeah, the config is, the config is gnarly. I tried to
 [10:37] go in here and understand what was, what was happening. And if you kind of
-[10:44] go to the top level, you can get some sense of what's happening here. Um,
-[00:00] we won't go too far into this, but just in case people do need to
+[10:44] go to the top level, you can get some sense of what's happening here. Um, we won't go too far into this, but just in case people do need to
 [10:52] mess around here, you have a whole bunch of configs. And this is basically when
 [10:55] you're running those first couple of commands. These will tell you like whether you're setting
 [11:00] up for main net test net local. So the ones we need to worry about
@@ -244,8 +212,7 @@ Finally, they summarize the strengths of local development: predictable funding,
 [13:01] um, ECMAScript modules. And I learned that you can do the same thing for your
 [13:04] scripts. So there's one point in the other tutorial where people would go in and
 [13:08] copy paste a whole bunch of scripts. Mm. You just run this command. Hey, yo,
-[13:13] look at that. Brand new scripts. Very nice. NPM hints. Yeah. And we got, so
-[00:00] what I did is I like used, um, the Kale's tutorial a little bit and
+[13:13] look at that. Brand new scripts. Very nice. NPM hints. Yeah. And we got, so what I did is I like used, um, the Kale's tutorial a little bit and
 [13:26] then kind of molded it with some of my own, basically how I set up
 [13:33] some of these files and commands from the last one and created just like a
 [13:39] super duper streamlined getting started. So the, the last one we did, it's like runs
@@ -253,14 +220,12 @@ Finally, they summarize the strengths of local development: predictable funding,
 [13:48] you know, 15 scripts, script files by the end. Whereas this is just going to
 [13:54] get you a wallet, get you an identity, get you a contract, submit documents to
 [13:56] that contract. That's all. That's all we're doing here. So this can get you from
-[14:05] like, you know, 0 to 50 and hopefully like five minutes or so. We're, we're
-[00:00] taking our time in this, in this video, but you could run through this whole
+[14:05] like, you know, 0 to 50 and hopefully like five minutes or so. We're, we're taking our time in this, in this video, but you could run through this whole
 [14:09] tutorial in like five minutes, probably. Yeah. So, so the scripts that you've set up
 [14:16] in contrast to the other one where we did a lot of reading, uh, you
 [14:19] know, scripts just to read the, the, the blockchain. This is mostly writing or we're
 [14:25] creating, registering, creating, submitting. And then only the last one is actually just getting a
-[14:28] document. So that's probably, I think a good call. Um, let's open up. Do you
-[00:00] have, do you have a reference to Mikael's, um, blog posts in your blog posts?
+[14:28] document. So that's probably, I think a good call. Um, let's open up. Do you have, do you have a reference to Mikael's, um, blog posts in your blog posts?
 [14:40] Or, um, so when I was writing this, he just had that gist. Um, I
 [14:47] don't, I couldn't find his medium. So I'm not sure what medium he's referring to
 [14:50] that he's publishing on. He may not have published it yet. So I'll, I'll check
@@ -301,19 +266,15 @@ Finally, they summarize the strengths of local development: predictable funding,
 [18:18] smooth process. If you do the command in the right order and you know what
 [18:25] commands to do when. So now I know that you, you have, you have this
 [18:30] plan here. You got your, you got your tutorial. I do want to go off
-[18:37] script a little bit, since this is kind of how we're, we're doing it. We're
-[00:00] not, we're not going to try to make a very streamlined 15 minute video here.
+[18:37] script a little bit, since this is kind of how we're, we're doing it. We're not, we're not going to try to make a very streamlined 15 minute video here.
 [18:43] I think right now we could potentially do that with some editing and whatnot. But
-[18:52] I do actually, I'm just curious if you can open up an insight server. Um,
-[00:00] if it should be running right now, based on what I saw in the configs,
-[18:59] just, just need to find out what port and URL it's running at. Um, because
-[00:00] I, I just like to see on a insight server, those 50 dash that you
+[18:52] I do actually, I'm just curious if you can open up an insight server. Um, if it should be running right now, based on what I saw in the configs,
+[18:59] just, just need to find out what port and URL it's running at. Um, because I, I just like to see on a insight server, those 50 dash that you
 [19:12] minted. If the, if it's picked up on the insight server. Okay. I don't know
 [19:19] what you mean by insight server. So insight is the block explorer. Ah, you know
 [19:25] how we usually open up a block explorer. Yeah. There should be some service running
 [19:32] the block explorer on this. Interesting. Yeah. Cause so there's the dr ps command, which
-[19:42] will show you everything. I, I don't know what to do with this. I wouldn't,
-[00:00] um, I know when you did, uh, like 80 minute long stream with McHale, he,
+[19:42] will show you everything. I, I don't know what to do with this. I wouldn't, um, I know when you did, uh, like 80 minute long stream with McHale, he,
 [19:49] he was doing this a lot and he was going into like, he was picking
 [19:54] certain ones and he was running like, like, like you could do, you know, Docker
 [19:58] logs with one of these. Yeah. Um, I had the only way that I would
@@ -353,15 +314,13 @@ Finally, they summarize the strengths of local development: predictable funding,
 [23:56] So we are about to register our identity. Okay. So now these are commands from
 [24:09] my last tutorial. This is really simple one. You're just running dot register on identities
 [24:19] and then console logging out your identity. And this is the command where, this is
-[24:25] where test net would usually fail on us if test net were to fail. So
-[00:00] now that we got everything local, this is no longer a scary commands to run.
+[24:25] where test net would usually fail on us if test net were to fail. So now that we got everything local, this is no longer a scary commands to run.
 [24:32] So that's cool. Yeah. We've got our identity. Putting it in the environment file. So
 [24:49] that now subsequent scripts will refer to that identity file. Okay. And now we've got
 [24:53] our create contract. This is basically the same contract from the tutorial, which is from
 [24:59] the dash docs themselves. It has you create a note, which is type object and
 [25:07] it's just a little JSON object with a message. And that message has a string
-[25:14] type, which will contain whatever message you want to write. And then we have also,
-[00:00] so I used to have this console log here and that would throw people off.
+[25:14] type, which will contain whatever message you want to write. And then we have also, so I used to have this console log here and that would throw people off.
 [25:22] So it would give you the contract ID before it finishes running. I forgot how
 [25:26] to, how to fix that. You just put the console log below the last step.
 [25:29] Yep. Yep. Yeah. People would be thinking that it's done because it returned something, but
@@ -380,8 +339,7 @@ Finally, they summarize the strengths of local development: predictable funding,
 [27:13] use this nice little query syntax with hello world dot note. And then this will
 [27:19] be our submit documents man. Oh, this is doing is this is now going to.
 [27:26] Oh, and so here I put the top up command right in there so that
-[27:33] every time you submit a document, it tops you up a little bit. This is
-[00:00] obviously not going to be a good practice once you're, you're dealing with real funds,
+[27:33] every time you submit a document, it tops you up a little bit. This is obviously not going to be a good practice once you're, you're dealing with real funds,
 [27:40] but just here on test that since dash is free. Anyway, this just ensures that
 [27:48] you're never going to run this command and not have the appropriate credits or duffs
 [27:54] in your, in your wallet or in your identity, I should say. Okay. And then
@@ -401,11 +359,9 @@ Finally, they summarize the strengths of local development: predictable funding,
 [29:57] didn't. People didn't. Just not following your own instructions. Yeah, exactly. Yeah. Okay. Great. So
 [30:06] now we see here. We'll make sure to save this one this time. Document ID.
 [30:10] Boom. Boom. Okay. So now we see here. This is our document and there is
-[30:19] our message. So just so we can get the full experience. I did have one
-[00:00] read command in here just to make sure your full end to end thing is
+[30:19] our message. So just so we can get the full experience. I did have one read command in here just to make sure your full end to end thing is
 [30:28] working. So now we have our get documents command. This is going to run get
-[30:38] on hello world dot note and it will give you all the messages. If you
-[00:00] put this to like five and you have 10 messages, it will only show you
+[30:38] on hello world dot note and it will give you all the messages. If you put this to like five and you have 10 messages, it will only show you
 [30:42] the first five. Here we'll see. Nice little message there. Hello from national network. So
 [30:50] there you go. That's the whole end tutorial. Yeah. Cool. Can you go back to
 [31:03] the get document script again just one more time? Mm-hmm. So I'm not using the
@@ -421,8 +377,7 @@ Finally, they summarize the strengths of local development: predictable funding,
 [32:19] The in operator is only allowed for the last two index properties, like all these
 [32:25] weird, super specific esoteric rules. So I, I found this extremely hard to, to work
 [32:30] with and deal with. So maybe that's just because my background didn't prepare me for
-[32:34] it. But, um, this is one of the ways you can, you can query. So
-[00:00] my script is not, is not doing that is just grabbing everything and then spitting
+[32:34] it. But, um, this is one of the ways you can, you can query. So my script is not, is not doing that is just grabbing everything and then spitting
 [32:45] it all out for you. Yeah. So in theory, you could, you could have better
 [32:53] performance by including the, the where and the different queries, uh, query limitations filters on
 [33:00] your query itself, because then you'd be returning less data from the network. But in
@@ -433,8 +388,7 @@ Finally, they summarize the strengths of local development: predictable funding,
 [33:27] So, um, yeah. Yeah. Yeah. Reads are always cheap with blockchain. Yep. All right. Um,
 [33:35] cool. That's, yeah, we, we got through that relatively quick. I wonder if we want
 [33:46] to play around with anything else. Like what I would like to see as, as
-[33:53] a users, I'd like to, to be able to, to see the different, um, the
-[00:00] different UI services as well, and, and be able to have those at my disposal.
+[33:53] a users, I'd like to, to be able to, to see the different, um, the different UI services as well, and, and be able to have those at my disposal.
 [34:01] So not only the, the insight UI, uh, the block explorer inside block explorer, but
 [34:09] also Grafana and metrics, other metrics. I know that it's, I saw some things about
 [34:18] that in the configuration file. So I'm assuming that it spins up those services. It's
@@ -453,8 +407,7 @@ Finally, they summarize the strengths of local development: predictable funding,
 [35:57] to work, but just try localhost port 99. Same thing. Yeah. Same issue. Okay. We'll,
 [36:04] we'll look into that later. Anything else you want to go through over the stream?
 [36:07] Let's look, let's look again at your, um, at the tutorial. Did we, did we
-[36:14] make it down to the bottom in terms of, yeah. Yeah. Yeah. Um, I, I
-[00:00] still just kind of like write a little, you know, conclusion and, you know, call
+[36:14] make it down to the bottom in terms of, yeah. Yeah. Yeah. Um, I, I still just kind of like write a little, you know, conclusion and, you know, call
 [36:19] to action or, or whatever, but, but that's pretty much, pretty much it in terms
 [36:25] of the, the tutorial. I'll, I'll probably have a link actually at the end back
 [36:30] to the first one set, you know, if people want to kind of go deeper,
@@ -462,8 +415,7 @@ Finally, they summarize the strengths of local development: predictable funding,
 [36:40] want to kind of do anything with the dash network, I would kind of run
 [36:43] through my other tutorial. And now this is like an even more kind of streamlined
 [36:47] way of doing that. I might even make like, make like a little cheat sheet.
-[36:49] That is just the command and codes and throw that in a gist. So if
-[00:00] it wants to get up and running in like 30 seconds, they could, they could
+[36:49] That is just the command and codes and throw that in a gist. So if it wants to get up and running in like 30 seconds, they could, they could
 [36:57] do that. So it was kind of like this slow, like whittling process of me
 [37:03] kind of understanding how to, how to work with the network and then how to
 [37:08] kind of get it down to its base functionality and, and really simple reusable ways.
