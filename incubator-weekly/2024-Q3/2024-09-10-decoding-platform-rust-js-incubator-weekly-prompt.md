@@ -18,63 +18,63 @@ coverImage: "https://i.ytimg.com/vi/91t9jrki0rc/sddefault.jpg?v=66de52c6"
 
 Verse
 
-Traversing synergy from proof of work to staked authority refined  
-Dash forging forward with visionary code so seamlessly aligned  
-We strip verbose clutter in bin code constructs meticulously designed  
-Testing fixtures matching rust outputs with veracity combined  
-Every annotation conjures versions that shape a novel storyline  
-Striving for smaller payloads that still sparkle with cryptographic shine  
-Identity creation mapped to this architecture supremely entwined  
-No extraneous data in signable streams we keep transitions defined  
+Traversing synergy from proof of work to staked authority refined
+Dash forging forward with visionary code so seamlessly aligned
+We strip verbose clutter in bin code constructs meticulously designed
+Testing fixtures matching rust outputs with veracity combined
+Every annotation conjures versions that shape a novel storyline
+Striving for smaller payloads that still sparkle with cryptographic shine
+Identity creation mapped to this architecture supremely entwined
+No extraneous data in signable streams we keep transitions defined
 
 Chorus
 
-We strive for clarity bridging languages with fervent energy  
-Pushing the threshold of minimal overhead with synergy  
-Expanding the dash horizon in unstoppable resiliency  
-Creating new directions through platform's code transparency  
+We strive for clarity bridging languages with fervent energy
+Pushing the threshold of minimal overhead with synergy
+Expanding the dash horizon in unstoppable resiliency
+Creating new directions through platform's code transparency
 
 Verse
 
-From gRPC channels we harness bytes in methodical streams  
-Excluding fields that hamper signatures forging robust schemes  
-A JavaScript library emerges fueling these unstoppable dreams  
-Manual transformations bring forth expansions beyond what it seems  
-Transition structures gleaned from enumerations with elaborate themes  
-No repeated rhymes no stammering bars each syllable redeems  
-Synergizing dash with browsers enabling cryptographic regimes  
-We unify dev mindsets hooking rust logic to front end beams  
+From gRPC channels we harness bytes in methodical streams
+Excluding fields that hamper signatures forging robust schemes
+A JavaScript library emerges fueling these unstoppable dreams
+Manual transformations bring forth expansions beyond what it seems
+Transition structures gleaned from enumerations with elaborate themes
+No repeated rhymes no stammering bars each syllable redeems
+Synergizing dash with browsers enabling cryptographic regimes
+We unify dev mindsets hooking rust logic to front end beams
 
 Chorus
 
-We strive for clarity bridging languages with fervent energy  
-Pushing the threshold of minimal overhead with synergy  
-Expanding the dash horizon in unstoppable resiliency  
-Creating new directions through platform's code transparency  
+We strive for clarity bridging languages with fervent energy
+Pushing the threshold of minimal overhead with synergy
+Expanding the dash horizon in unstoppable resiliency
+Creating new directions through platform's code transparency
 
 Verse
 
-One chain for payments another for data weaving trust so complete  
-Offering swift actions and minimal fees forging progress elite  
-Identity births from these coded instructions with no sign of defeat  
-Rust macros cradle complexities while JS echoes the beat  
-Ensuring each field aligns with logic that cannot retreat  
-Versioned expansions await but we stand sturdy on repeated feats  
-No punctuation needed each phrase resonates discreet  
-Collective ambition guides the synergy networks cannot delete  
+One chain for payments another for data weaving trust so complete
+Offering swift actions and minimal fees forging progress elite
+Identity births from these coded instructions with no sign of defeat
+Rust macros cradle complexities while JS echoes the beat
+Ensuring each field aligns with logic that cannot retreat
+Versioned expansions await but we stand sturdy on repeated feats
+No punctuation needed each phrase resonates discreet
+Collective ambition guides the synergy networks cannot delete
 
 Bridge
 
-Evolving the schema with unstoppable flow forging the future so bright  
-Nodes verifying each cryptic fragment intensifying insight  
-Inviting a legion of creators to unify code day and night  
-Shifting the landscape of decentralized brilliance in ascending flight  
+Evolving the schema with unstoppable flow forging the future so bright
+Nodes verifying each cryptic fragment intensifying insight
+Inviting a legion of creators to unify code day and night
+Shifting the landscape of decentralized brilliance in ascending flight
 
 Chorus
 
-We strive for clarity bridging languages with fervent energy  
-Pushing the threshold of minimal overhead with synergy  
-Expanding the dash horizon in unstoppable resiliency  
+We strive for clarity bridging languages with fervent energy
+Pushing the threshold of minimal overhead with synergy
+Expanding the dash horizon in unstoppable resiliency
 Creating new directions through platform's code transparency
 
 ## Episode Description
